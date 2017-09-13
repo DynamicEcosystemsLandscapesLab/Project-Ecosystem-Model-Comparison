@@ -1,3 +1,7 @@
 # Project-Ecosystem-Model-Comparison
 
-This directory contains data and other information from Zachary Robbins' REU project, running SORTIE on Harvard Forest.
+This repository contains data and other information from the Ecosystem Model Comparison projected, funded by DOD.
+
+Primary web page:
+
+Trello page:
