@@ -1,3 +1,5 @@
 # Project-Ecosystem-Model-Comparison
 
-This directory contains data and other information from Zachary Robbins' REU project, running SORTIE on Harvard Forest.
+Phase 1 of the Ecosystem Model comparison project, emphasizing local calibration and validation of Harvard Forest and the Jones Ecological Research Center.
+
+JERC:  http://www.jonesctr.org/
