@@ -1,0 +1,13 @@
+LandisData "Initial Communities"
+MapCode 0 <<
+MapCode 1 << water, ag, pavement, etc
+MapCode 2 << potential forest
+
+MapCode 10 <<HEM Tower Initial Community based on YEAR?? conditions based on site description in Hadley and Schedlbaurer 2002
+>>tsugcana 100 200
+>>tsugcana 100 120 150 180 200 230
+>>tsugcana 10 50 100
+tsugcana 100 230
+pinustro 50 100
+betulent 10 20
+fagugran 10 20
