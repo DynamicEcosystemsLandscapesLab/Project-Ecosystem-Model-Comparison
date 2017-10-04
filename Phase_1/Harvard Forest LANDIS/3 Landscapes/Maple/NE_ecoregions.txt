@@ -1,0 +1,6 @@
+LandisData  Ecoregions
+
+>> Active	MapCode	ecoregion_name	description
+yes 1	eco105	 "Clim_region: 1 SWHC: 5"
+>>yes 1	eco111	 "Clim_region: 1 SWHC: 11"
+>>yes 1	eco120	 "Clim_region: 1 SWHC: 20"

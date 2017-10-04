@@ -1,0 +1,361 @@
+LandisData "Initial Communities"
+
+MapCode 1 << FIA PLT_CN 75976449010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 60 80
+querrubr 20 30 40 60
+picerube 20 30 60
+acerrubr 5 20 30 40 60
+abiebals 10 30
+piceglau 10
+
+MapCode 2 << FIA PLT_CN 73087422010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 10 30 40 60
+fraxamer 30 40 60
+quervelu 40
+querrubr 5 30 40
+prunsero 5 40
+acerrubr 5 30 40
+
+MapCode 3 << FIA PLT_CN 73594574010538 << FIA Forest Type:  103 Eastern white pine
+fraxamer 5 80 120
+pinustro 60 80
+prunsero 10 30 40 60
+
+MapCode 4 << FIA PLT_CN 73084926010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 30 40 60 80
+acerrubr 5 40 60
+prunsero 5 30
+fagugran 30
+acersacc 5 20
+querrubr 5
+
+MapCode 5 << FIA PLT_CN 116424927010661 << FIA Forest Type:  103 Eastern white pine
+querrubr 160
+pinustro 30 40 60 80 100 160
+acerrubr 20 30 40 60 80 100
+queralba 60
+
+MapCode 6 << FIA PLT_CN 73078532010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 40 60
+picerube 40
+acerrubr 5 30 40
+abiebals 5 30 40
+poputrem 30
+betupopu 30
+
+MapCode 7 << FIA PLT_CN 74941221010538 << FIA Forest Type:  103 Eastern white pine
+queralba 30 40 60
+fraxamer 30 40 60
+tsugcana 20 30 40
+popugran 30 40
+pinustro 20 30 40
+fagugran 5 30 40
+
+MapCode 8 << FIA PLT_CN 107545902010661 << FIA Forest Type:  409 Other pine / hardwood
+querrubr 30 40
+pinustro 30 40
+pinuresi 30 40
+fraxamer 10 30 40
+acersacc 20 30 40
+acerrubr 10 20 30 40
+
+MapCode 9 << FIA PLT_CN 145023701010661 << FIA Forest Type:  901 Aspen
+poputrem 40 60
+pinustro 10 30 40
+fraxamer 40
+abiebals 30
+betupopu 5
+
+MapCode 10 << FIA PLT_CN 73085384010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 30 40 60 80
+querrubr 5 60
+fraxamer 60
+acerrubr 5 20 30 40 60
+tsugcana 40
+queralba 20 30 40
+
+MapCode 11 << FIA PLT_CN 73593740010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 5 20 30
+prunsero 10 20
+poputrem 5 20
+fagugran 5
+acersacc 5
+
+MapCode 12 << FIA PLT_CN 122563279010661 << FIA Forest Type:  103 Eastern white pine
+pinustro 40 60 80
+popugran 60
+fagugran 5 30 60
+acerrubr 30 40 60
+betulent 20 30 40
+prunsero 5 30
+
+MapCode 13 << FIA PLT_CN 104973176010661 << FIA Forest Type:  103 Eastern white pine
+pinustro 10 40 60 80 160
+queralba 60
+
+MapCode 14 << FIA PLT_CN 73606082010538 << FIA Forest Type:  516 Cherry / white ash / yellow-poplar
+fraxamer 10 20 30 60 100 140
+prunsero 20 30 60 80 100
+pinustro 20 30 60 80 100
+acerrubr 10 20 30 60 80
+querrubr 20 60
+acersacc 10 40
+
+MapCode 15 << FIA PLT_CN 75976097010538 << FIA Forest Type:  103 Eastern white pine
+tsugcana 40 60 80
+pinustro 10 60 80
+picerube 20 60 80
+acerrubr 5 60 80
+abiebals 10 60 80
+thujocci 30 40
+
+MapCode 16 << FIA PLT_CN 144978115010661 << FIA Forest Type:  103 Eastern white pine
+pinustro 40 60 80 100 120 180
+quervelu 60 100 115
+acerrubr 5 30 40 60 100
+ulmuamer 5 20 30
+querrubr 20 30
+
+MapCode 17 << FIA PLT_CN 70436613010538 << FIA Forest Type:  103 Eastern white pine
+betupapy 30 120
+pinustro 10 30 40 60 80
+popubals 30 60
+acerrubr 5 20 30 40 60
+thujocci 5 20 30 40
+betualle 5 10 30 40
+
+MapCode 18 << FIA PLT_CN 75976309010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 10 40 60 80 100 120
+picerube 20 40 60 80 100
+piceglau 20 60
+betupapy 60
+acerrubr 5 40 60
+abiebals 10 30 40 60
+
+MapCode 19 << FIA PLT_CN 74336880010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 30 40 60 80
+quervelu 60
+querrubr 40 60
+queralba 60
+popugran 60
+acerrubr 5 20 30 40 60
+
+MapCode 20 << FIA PLT_CN 62238770010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 40 60 80 100
+betupapy 60
+tsugcana 30
+
+MapCode 21 << FIA PLT_CN 107545318010661 << FIA Forest Type:  103 Eastern white pine
+pinustro 10 30 60
+prunsero 30 40
+acerrubr 40
+abiebals 5 20
+
+MapCode 22 << FIA PLT_CN 73075912010538 << FIA Forest Type:  124 Red spruce / balsam fir
+pinustro 60 80 100 120 160 180
+abiebals 40 100 180
+picerube 20 30 40 60 100
+acerrubr 5
+
+MapCode 23 << FIA PLT_CN 74340397010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 30 40 60 80 100 120 160 180
+quercocc 20 80
+fagugran 30 80
+querrubr 5 20 60
+
+MapCode 24 << FIA PLT_CN 119147841010661 << FIA Forest Type:  103 Eastern white pine
+pinustro 20 30 40
+quervelu 5 20 30
+querrubr 20 30
+queralba 20 30
+acerrubr 5 20 30
+fagugran 20
+
+MapCode 25 << FIA PLT_CN 119147891010661 << FIA Forest Type:  103 Eastern white pine
+pinurigi 60 195
+pinustro 40 60 80 100 140 160
+querrubr 5 60
+queralba 40
+prunsero 10
+betupopu 5
+
+MapCode 26 << FIA PLT_CN 107545428010661 << FIA Forest Type:  103 Eastern white pine
+querrubr 60 100 160 220
+pinustro 10 40 60 80 100 160
+popugran 60 105
+betupapy 40 60 80 140
+acerrubr 40 60 100 120
+picerube 20 30 40 60 80 100
+
+MapCode 27 << FIA PLT_CN 122556767010661 << FIA Forest Type:  103 Eastern white pine
+quercocc 30 40 60 80
+queralba 60
+pinustro 30 40 60
+acerrubr 60
+
+MapCode 28 << FIA PLT_CN 70408154010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 40 80
+querrubr 40 60
+pinuresi 40 60
+acerrubr 30 40 60
+thujocci 40
+tsugcana 30
+
+MapCode 29 << FIA PLT_CN 122567174010661 << FIA Forest Type:  103 Eastern white pine
+pinustro 30 40 60 80 100 120 160 200
+tsugcana 5 20 30 40 60 80
+acerrubr 20 30 60 80
+fagugran 20 30 60
+queralba 5 20 40
+betulent 10 30 40
+
+MapCode 30 << FIA PLT_CN 62266626010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 20 30 40 60
+queralba 20 30 40
+pinurigi 40
+quervelu 20 30
+acerrubr 10 20 30
+querrubr 20
+
+MapCode 31 << FIA PLT_CN 74932972010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 30 40 60 80 100
+acerrubr 40 60 80
+fraxamer 60
+betupapy 60
+acersacc 60
+tsugcana 5 20 30
+
+MapCode 32 << FIA PLT_CN 75976309010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 10 40 60 80 100 120
+picerube 20 40 60 80 100
+piceglau 20 60
+betupapy 60
+acerrubr 5 40 60
+abiebals 10 30 40 60
+
+MapCode 33 << FIA PLT_CN 74902240010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 10 30 40 60
+acersacc 30 40 60
+betupapy 20 30 40
+fraxamer 30
+fagugran 5
+betulent 5
+
+MapCode 34 << FIA PLT_CN 73613645010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 5 10 30 60
+picerube 20 30 40 60
+acerrubr 20 40
+abiebals 5 20 30 40
+piceglau 5 10 20 30
+tsugcana 20
+
+MapCode 35 << FIA PLT_CN 73078532010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 40 60
+picerube 40
+acerrubr 5 30 40
+abiebals 5 30 40
+poputrem 30
+betupopu 30
+
+MapCode 36 << FIA PLT_CN 144978153010661 << FIA Forest Type:  103 Eastern white pine
+pinustro 20 30 40
+quervelu 20 30
+acerrubr 5 20 30
+querrubr 5 20
+prunsero 5
+
+MapCode 37 << FIA PLT_CN 74378229010538 << FIA Forest Type:  103 Eastern white pine
+querrubr 100 160
+pinustro 30 40 60 80 100 120 140 160
+betualle 60 160
+acerrubr 60 80 100 140 160
+prunsero 60 80 100
+betulent 5
+
+MapCode 38 << FIA PLT_CN 122566874010661 << FIA Forest Type:  801 Sugar maple / beech / yellow birch
+pinustro 30 40 60
+prunsero 5 30 40
+acersacc 5 20 30
+
+MapCode 39 << FIA PLT_CN 145023701010661 << FIA Forest Type:  901 Aspen
+poputrem 40 60
+pinustro 10 30 40
+fraxamer 40
+abiebals 30
+betupopu 5
+
+MapCode 40 << FIA PLT_CN 144978219010661 << FIA Forest Type:  103 Eastern white pine
+querrubr 20 40 60
+pinustro 10 30 40 60
+prunsero 40
+fraxamer 40
+acerrubr 5 40
+
+MapCode 41 << FIA PLT_CN 73084777010538 << FIA Forest Type:  103 Eastern white pine
+querrubr 30 60 80 160
+pinustro 40 60 80
+acerrubr 5 30 40 60 80
+pinuresi 60
+tsugcana 5 30 40
+picerube 40
+
+MapCode 42 << FIA PLT_CN 107545876010661 << FIA Forest Type:  103 Eastern white pine
+querrubr 100 160
+pinustro 60 80 100 120 160
+poputrem 105
+fraxamer 140
+pinurigi 100
+acerrubr 40 60 100
+
+MapCode 43 << FIA PLT_CN 116424829010661 << FIA Forest Type:  103 Eastern white pine
+tsugcana 30 40 60 80 220
+betualle 60 200
+acerrubr 180
+querrubr 160
+pinustro 160
+betulent 60 160
+
+MapCode 44 << FIA PLT_CN 145023701010661 << FIA Forest Type:  901 Aspen
+poputrem 40 60
+pinustro 10 30 40
+fraxamer 40
+abiebals 30
+betupopu 5
+
+MapCode 45 << FIA PLT_CN 68287958010538 << FIA Forest Type:  103 Eastern white pine
+querprin 40 60 80
+pinustro 10 30 40 60 80
+querrubr 60
+
+MapCode 46 << FIA PLT_CN 75821211010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 10 30 40 60
+picerube 20 30 40
+abiebals 10 30 40
+tsugcana 30
+acerrubr 5
+
+MapCode 47 << FIA PLT_CN 102446018010661 << FIA Forest Type:  103 Eastern white pine
+abiebals 10 60 80 100
+picemari 60 80
+poputrem 60
+pinustro 10 30 40 60
+
+MapCode 48 << FIA PLT_CN 145024113010661 << FIA Forest Type:  103 Eastern white pine
+pinustro 5 20 30 40
+acersacc 30
+acerrubr 5 20 30
+abiebals 5 20 30
+betupopu 5 10
+fagugran 5
+
+MapCode 49 << FIA PLT_CN 102509391010661 << FIA Forest Type:  103 Eastern white pine
+prunsero 5 10 30 40 60
+pinustro 40 60
+acerrubr 5 20 30 40 60
+poputrem 20 30 40
+
+MapCode 50 << FIA PLT_CN 75779942010538 << FIA Forest Type:  103 Eastern white pine
+pinustro 10 30 40 60
+pinuresi 5 30 40 60
+abiebals 10 60
+picerube 40

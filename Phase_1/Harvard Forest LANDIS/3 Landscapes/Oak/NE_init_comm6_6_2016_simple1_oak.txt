@@ -1,0 +1,377 @@
+LandisData "Initial Communities"
+
+MapCode 1 << FIA PLT_CN 119774295010661 << FIA Forest Type:  503 White oak / red oak / hickory
+caryglab 20 40
+acerrubr 30
+betulent 5 10 20
+
+MapCode 2 << FIA PLT_CN 119774225010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 40 80
+fagugran 10 60
+caryglab 60
+betulent 40 60
+betupapy 40
+betualle 40
+
+MapCode 3 << FIA PLT_CN 74932424010538 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 30 40 60 80
+pinustro 40 60
+fraxamer 5 30 40
+caryglab 30 40
+ostrvirg 5
+
+MapCode 4 << FIA PLT_CN 122556005010661 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 30 40
+querrubr 30 40
+quercocc 20 30
+acerrubr 5 20 30
+betulent 5 10 20
+
+MapCode 5 << FIA PLT_CN 62156876010538 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 60
+querrubr 30 40 60
+betulent 10 20 30 60
+tsugcana 5 20 30 40
+pinustro 30 40
+caryglab 30 40
+
+MapCode 6 << FIA PLT_CN 122556421010661 << FIA Forest Type:  503 White oak / red oak / hickory
+queralba 80 300
+quercocc 145
+quervelu 60 80
+tsugcana 30 40 60
+querrubr 60
+pinustro 10 40 60
+
+MapCode 7 << FIA PLT_CN 119148121010661 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 40 60
+querrubr 30 40 60
+quercocc 30 40 60
+pinustro 60
+acerrubr 5 30
+betulent 5 20
+
+MapCode 8 << FIA PLT_CN 102450782010661 << FIA Forest Type:  503 White oak / red oak / hickory
+queralba 5 30 40 60
+pinustro 40
+pinuresi 5 20 30 40
+acerrubr 30 40
+
+MapCode 9 << FIA PLT_CN 62263945010538 << FIA Forest Type:  503 White oak / red oak / hickory
+popugran 30 40 60
+quervelu 20 30 40
+quercocc 40
+caryglab 20 30 40
+pinustro 10 30
+fraxamer 30
+
+MapCode 10 << FIA PLT_CN 74370128010538 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 20 40
+prunsero 30
+acerrubr 30
+
+MapCode 11 << FIA PLT_CN 122556201010661 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 30 40 60
+queralba 30 40 60
+querrubr 40
+pinustro 10 20 30 40
+fraxamer 40
+betulent 5 20 30
+
+MapCode 12 << FIA PLT_CN 68295026010538 << FIA Forest Type:  503 White oak / red oak / hickory
+queralba 30 60
+popugran 60
+acerrubr 5 20 30 40
+querprin 30
+quercocc 30
+
+MapCode 13 << FIA PLT_CN 74378616010538 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 30 40 60
+quercocc 60
+acerrubr 5 40 60
+quervelu 40
+fraxamer 40
+queralba 30
+
+MapCode 14 << FIA PLT_CN 102106222010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 20 30 40 60 80
+quervelu 30 40 60
+pinustro 10 30 40 60
+pinuresi 20 30 40 60
+acerrubr 5 30 40 60
+prunsero 5
+
+MapCode 15 << FIA PLT_CN 74379657010538 << FIA Forest Type:  401 Eastern white pine / northern red oak / white ash
+querrubr 40 60 120
+pinustro 30 60 80
+acerrubr 30 40 60
+tsugcana 5 20 30 40
+queralba 30 40
+prunsero 5
+
+MapCode 16 << FIA PLT_CN 144981532010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 80
+queralba 30 40 60 80
+pinustro 40 60 80
+acerrubr 30 60
+betulent 40
+
+MapCode 17 << FIA PLT_CN 65165809010538 << FIA Forest Type:  503 White oak / red oak / hickory
+fraxamer 20 40 80
+tiliamer 40 60
+querrubr 60
+caryglab 60
+acerrubr 30 40 60
+tsugcana 20 30 40
+
+MapCode 18 << FIA PLT_CN 116424757010661 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 60 80
+querrubr 60
+pinustro 10 60
+acersacc 30 40 60
+acerrubr 60
+tsugcana 20 30 40
+
+MapCode 19 << FIA PLT_CN 119774269010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querprin 40 80
+caryglab 60 80
+acersacc 60 80
+querrubr 40 60
+acerrubr 5 30 40 60
+tsugcana 30 40
+
+MapCode 20 << FIA PLT_CN 144992399010661 << FIA Forest Type:  105 Eastern hemlock
+quercocc 30 40 60 80
+acerrubr 40 60 80
+tsugcana 30 40 60
+queralba 40 60
+betulent 5 20 30 40 60
+quervelu 30 40
+
+MapCode 21 << FIA PLT_CN 119774125010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 60 100 160
+quercocc 60 145
+queralba 40 60 80
+popugran 80
+quervelu 60
+betualle 60
+
+MapCode 22 << FIA PLT_CN 74336556010538 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 30 60 80
+queralba 40 60
+betualle 30 40 60
+acerrubr 30 40 60
+quercocc 40
+betulent 20
+
+MapCode 23 << FIA PLT_CN 119774203010661 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 60 80
+queralba 60
+fagugran 5 20 30 40 60
+acerrubr 20 30 40
+
+MapCode 24 << FIA PLT_CN 100197194010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 5 30 60 80
+queralba 60
+poputrem 60
+popugran 60
+acerrubr 30 40 60
+pinustro 10 30 40
+
+MapCode 25 << FIA PLT_CN 119774237010661 << FIA Forest Type:  503 White oak / red oak / hickory
+betulent 5 20 30 40 60 80
+quervelu 40 60
+queralba 20 30 40 60
+acerrubr 5 20 30 40 60
+querrubr 30 40
+prunsero 10 40
+
+MapCode 26 << FIA PLT_CN 144981469010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 5 160
+acerrubr 5 30 40 60 80
+pinustro 10 30 40
+betupapy 5 30
+prunsero 10
+fraxamer 10
+
+MapCode 27 << FIA PLT_CN 122559723010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 120 160
+querprin 40 60 80 100 120
+queralba 80 100
+quervelu 80
+fagugran 60 80
+tsugcana 5 30 40 60
+
+MapCode 28 << FIA PLT_CN 122561250010661 << FIA Forest Type:  503 White oak / red oak / hickory
+quercocc 60
+queralba 5 30 40 60
+caryglab 40 60
+acerrubr 5 30 40 60
+querprin 40
+querrubr 5
+
+MapCode 29 << FIA PLT_CN 122561946010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 60
+querprin 30 40 60
+queralba 40 60
+acerrubr 5 30 40 60
+
+MapCode 30 << FIA PLT_CN 122556591010661 << FIA Forest Type:  503 White oak / red oak / hickory
+queralba 30 60 120 140 240
+acerrubr 5 10 40 220
+quervelu 60 115
+caryglab 30 60 160
+querrubr 60 140
+pinustro 30 60 140
+
+MapCode 31 << FIA PLT_CN 62291373010538 << FIA Forest Type:  503 White oak / red oak / hickory
+popugran 80
+ulmuamer 10 60
+quervelu 60
+querrubr 40 60
+caryglab 30 40 60
+betulent 10 20 30 60
+
+MapCode 32 << FIA PLT_CN 119774275010661 << FIA Forest Type:  503 White oak / red oak / hickory
+caryglab 60 80
+fraxamer 60
+betualle 40
+acersacc 5 30 40
+betulent 20 30
+acerrubr 5 30
+
+MapCode 33 << FIA PLT_CN 113492869010661 << FIA Forest Type:  503 White oak / red oak / hickory
+fraxamer 80 140
+tiliamer 60
+queralba 60
+pinustro 30 40 60
+fagugran 60
+acerrubr 20 30 40 60
+
+MapCode 34 << FIA PLT_CN 122564499010661 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 40 60
+querrubr 30 40 60
+queralba 5 30 40 60
+acerrubr 5 30
+
+MapCode 35 << FIA PLT_CN 73088997010538 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 115
+querrubr 160
+tsugcana 10 140
+acerrubr 5 40 80 120
+queralba 80 100
+pinustro 10 40 60 80
+
+MapCode 36 << FIA PLT_CN 122555929010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 30 60 100
+queralba 60 80
+acersacc 5 20 30 40 80
+fraxamer 60
+betulent 5 30 40 60
+acerrubr 40 60
+
+MapCode 37 << FIA PLT_CN 74370210010538 << FIA Forest Type:  503 White oak / red oak / hickory
+caryglab 40 60
+quervelu 20 40
+quercocc 30 40
+queralba 5 30 40
+popugran 20 30
+pinustro 10 30
+
+MapCode 38 << FIA PLT_CN 122556753010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 40 60 100
+queralba 30 40 60 80
+quervelu 60
+pinustro 10 30 40 60
+acerrubr 40 60
+betulent 5 10 20 30 40
+
+MapCode 39 << FIA PLT_CN 113492245010661 << FIA Forest Type:  503 White oak / red oak / hickory
+fraxamer 60
+acerrubr 40 60
+pinustro 30
+querrubr 5
+
+MapCode 40 << FIA PLT_CN 119774251010661 << FIA Forest Type:  503 White oak / red oak / hickory
+quervelu 30 100
+acerrubr 5 40 80
+fraxamer 60
+fagugran 5 30 40 60
+queralba 40
+betulent 30 40
+
+MapCode 41 << FIA PLT_CN 145021493010661 << FIA Forest Type:  503 White oak / red oak / hickory
+caryglab 40 60 100 180
+querrubr 160
+pinustro 60 120 160
+querprin 60
+prunsero 60
+acersacc 40 60
+
+MapCode 42 << FIA PLT_CN 72742618010538 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 20 30 60
+poputrem 30 60
+prunsero 5 20 30 40
+acerrubr 30 40
+pinustro 30
+ulmuamer 20
+
+MapCode 43 << FIA PLT_CN 122558370010661 << FIA Forest Type:  503 White oak / red oak / hickory
+querprin 30 40 60 80
+queralba 60 80
+quervelu 60
+caryglab 60
+querrubr 40
+fraxamer 30
+
+MapCode 44 << FIA PLT_CN 119774159010661 << FIA Forest Type:  503 White oak / red oak / hickory
+queralba 60
+caryglab 60
+betulent 20 60
+acerrubr 30 60
+acersacc 30 40
+ostrvirg 5
+
+MapCode 45 << FIA PLT_CN 74338816010538 << FIA Forest Type:  503 White oak / red oak / hickory
+quercocc 40 60 80
+acerrubr 5 20 30 40 60 80
+quervelu 60
+queralba 30 40 60
+
+MapCode 46 << FIA PLT_CN 75976749010538 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 160
+betupapy 145
+pinustro 40 60 80 100
+acerrubr 5 40 60 80 100
+poputrem 10 80
+ulmuamer 40 60
+
+MapCode 47 << FIA PLT_CN 76913084010538 << FIA Forest Type:  503 White oak / red oak / hickory
+queralba 40 60
+pinustro 10 30 40 60
+acerrubr 5 30 40 60
+querprin 30
+betupapy 20 30
+
+MapCode 48 << FIA PLT_CN 62289577010538 << FIA Forest Type:  503 White oak / red oak / hickory
+querrubr 40 60
+quercocc 60
+queralba 30 40 60
+caryglab 60
+betulent 5 10 20 60
+fagugran 30
+
+MapCode 49 << FIA PLT_CN 74333695010538 << FIA Forest Type:  503 White oak / red oak / hickory
+fraxamer 30 80 100 140
+tsugcana 10 20 30 40 60
+caryglab 60
+betualle 40 60
+acersacc 40 60
+prunsero 40
+
+MapCode 50 << FIA PLT_CN 65136933010538 << FIA Forest Type:  503 White oak / red oak / hickory
+pinustro 30 40 80
+acerrubr 30 40 80
+quervelu 60
+fraxamer 5 60
+ulmuamer 20
