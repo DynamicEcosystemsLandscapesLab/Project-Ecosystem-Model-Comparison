@@ -1,0 +1,33 @@
+LandisData  Scenario
+
+Duration  22
+
+Species         "NE_species.txt"
+Ecoregions      "EMS_ecoregions.txt"
+EcoregionsMap   "EMS_311_single_cell_eco.img"
+
+CellLength  250 << meters
+
+
+>> Succession Extension     Initialization File
+>> --------------------     -------------------
+   "Century Succession"     "EMS_single_cell_century_succession.txt"
+
+
+>> Disturbance Extensions   Initialization File
+>> ----------------------   -------------------
+>>   "Base Fire"		    base-fire_v2.txt
+
+>>   DisturbancesRandomOrder  yes  << optional parameter; default = no
+
+
+>> Other Extensions         Initialization File
+>> ----------------         -------------------
+>>   "Output Reclass"	    reclass.output.txt
+>> 	 "Output Leaf Biomass"		"Y:/LANDIS_INPUTS/output_extensions/output-leaf-biomass.txt"
+>>"Output Cohort Statistics"    "Y:/LANDIS_INPUTS/output_extensions/cohort-stats.output.txt"
+>>"Output Max Species Age"		"Y:/LANDIS_INPUTS/output_extensions/max-spp-age.output.txt"
+>>"Output Leaf Biomass Reclass"	"Y:/LANDIS_INPUTS/output_extensions/output-leaf-biomass-reclass.txt"
+
+>>RandomNumberSeed  4,357  << optional parameter; default = the seed is
+                         << randomly generated using the current time

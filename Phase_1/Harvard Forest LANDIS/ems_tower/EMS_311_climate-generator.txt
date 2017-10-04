@@ -1,0 +1,9 @@
+LandisData "Climate Config"				
+		
+ClimateTimeSeries			Monthly_SequencedYears  <<  Monthly_AverageAllYears <<  
+ClimateFile				   "harvard_forest_cli_1990_311.csv"
+ClimateFileFormat			Monthly_Temp-C_Precip-mmMonth
+
+SpinUpClimateTimeSeries			Monthly_AverageAllYears <<Monthly_SequencedYears << Monthly_AverageAllYears << Monthly_RandomYear 
+SpinUpClimateFile			   "harvard_forest_cli_1990_311.csv"
+SpinUpClimateFileFormat			Monthly_Temp-C_Precip-mmMonth

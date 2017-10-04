@@ -1,0 +1,907 @@
+2016-01-29 11:53:08,056 - LANDIS-II 6.0 (official release)
+2016-01-29 11:53:08,062 - 
+2016-01-29 11:53:08,350 - Loading scenario from file "EMS_scenario_century.txt" ...
+2016-01-29 11:53:08,401 - Initialized random number generator with seed = 1,537,392,086
+2016-01-29 11:53:08,402 - Loading species data from file "NE_species.txt" ...
+2016-01-29 11:53:08,415 - Loading ecoregions from file "EMS_ecoregions.txt" ...
+2016-01-29 11:53:08,426 - Initializing landscape from ecoregions map "EMS_311_single_cell_eco.img" ...
+2016-01-29 11:53:08,446 - Cell length = 250 m, cell area = 6.25 ha
+2016-01-29 11:53:08,447 - Map dimensions: 1 row by 1 column = 1 cell
+2016-01-29 11:53:08,452 - Sites: 1 active (100.0 %), 0 inactive (0.0 %)
+2016-01-29 11:53:08,458 - Loading Century Succession extension ...
+2016-01-29 11:53:08,476 -    Registering Data:  Succession.LeafBiomassCohorts.
+2016-01-29 11:53:08,477 -    Registering Data:  Succession.AgeCohorts.
+2016-01-29 11:53:08,509 -    Begin parsing FUNCTIONAL GROUP table.
+2016-01-29 11:53:08,511 -    Begin reading INITIAL ECOREGION parameters.
+2016-01-29 11:53:08,512 -    Begin reading FIXED ECOREGION parameters.
+2016-01-29 11:53:08,514 -    Begin reading FIRE REDUCTION parameters.
+2016-01-29 11:53:08,515 -    Begin reading HARVEST REDUCTION parameters.
+2016-01-29 11:53:08,525 - Initializing Century Succession ...
+2016-01-29 11:53:08,565 -    Loading weather data ...
+2016-01-29 11:53:08,566 -    Loading spin-up weather data from file harvard_forest_cli_1990_311.csv ...
+2016-01-29 11:53:08,577 -    Converting raw data from text file: harvard_forest_cli_1990_311.csv, Format=monthly_temp-c_precip-mmmonth, Temporal=Monthly.
+2016-01-29 11:53:08,582 -    Loading future weather data from file harvard_forest_cli_1990_311.csv ...
+2016-01-29 11:53:08,583 -    Converting raw data from text file: harvard_forest_cli_1990_311.csv, Format=monthly_temp-c_precip-mmmonth, Temporal=Monthly.
+2016-01-29 11:53:08,993 -    Core.StartTime = 0, Core.EndTime = 22.
+2016-01-29 11:53:08,998 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,000 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,001 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,001 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,002 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,002 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,003 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,003 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,004 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,004 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,004 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,005 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,005 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,006 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,006 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,016 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,017 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,018 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,018 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,019 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,019 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,020 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,020 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,022 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,022 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,023 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,023 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,024 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,024 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,024 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,025 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,032 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,033 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,033 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,034 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,034 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,035 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,035 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,036 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,038 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,038 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,038 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,039 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,039 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,040 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,040 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,040 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,043 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,043 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,044 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,044 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,045 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,045 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,046 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,046 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,048 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,049 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,049 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,049 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,050 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,050 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,051 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,051 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,053 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,054 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,054 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,054 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,055 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,055 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,056 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,056 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,058 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,059 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,059 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,060 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,060 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,060 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,061 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,061 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,062 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,062 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,064 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,064 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,065 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,065 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,066 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,067 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,071 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,071 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,073 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,073 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,074 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,078 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,079 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,079 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,080 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,080 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,081 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,081 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,082 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,082 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,083 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,083 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,083 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,084 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,084 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,085 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,085 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,088 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,088 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,089 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,089 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,089 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,090 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,090 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,091 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,093 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,093 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,094 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,094 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,094 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,095 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,095 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,096 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,099 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,099 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,100 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,100 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,101 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,101 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,101 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,101 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,101 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,102 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,102 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,102 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,102 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,102 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,103 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,103 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,103 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,103 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,103 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,103 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,104 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,104 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,104 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,104 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,104 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,104 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,105 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,105 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,105 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,105 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,105 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,105 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,105 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,106 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,106 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,106 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,106 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,106 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,106 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,106 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,107 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,107 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,109 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,110 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,110 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,110 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,110 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,110 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,110 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,110 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,116 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,117 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,117 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,117 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,118 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,118 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,118 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,118 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,122 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,122 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,122 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,122 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,123 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,123 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,123 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,123 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,123 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,124 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,124 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,124 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,124 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,124 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,124 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,125 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,125 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,128 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,128 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,128 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,128 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,129 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,129 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,129 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,129 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,133 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,133 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,134 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,134 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,134 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,134 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,135 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,135 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,138 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,139 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,139 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,139 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,139 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,139 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,140 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,140 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,140 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,144 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,144 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,144 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,144 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,145 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,145 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,145 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,145 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,150 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,150 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,150 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,151 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,151 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,151 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,151 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,152 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,155 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,155 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,156 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,156 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,156 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,156 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,157 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,157 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,160 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,161 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,161 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,161 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,161 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,161 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,162 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,162 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,162 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,166 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,166 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,167 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,167 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,167 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,167 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,167 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,168 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,171 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,172 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,172 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,172 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,172 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,172 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,173 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,173 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,177 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,177 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,177 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,177 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,177 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,177 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,178 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,178 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,188 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,188 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,188 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,188 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,189 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,189 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,189 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,189 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,190 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,190 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,190 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,190 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,190 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,190 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,191 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,191 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,191 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,193 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,193 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,193 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,193 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,194 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,194 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,194 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,194 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,198 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,199 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,199 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,199 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,200 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,200 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,200 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,200 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,204 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,204 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,204 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,204 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,205 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,205 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,205 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,205 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,205 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,209 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,209 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,209 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,210 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,210 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,210 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,210 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,210 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,214 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,215 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,215 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,215 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,215 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,215 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,215 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,216 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,220 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,220 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,220 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,221 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,221 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,221 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,221 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,222 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,225 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,225 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,226 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,226 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,226 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,226 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,226 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,227 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,227 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,230 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,231 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,231 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,231 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,231 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,231 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,232 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,232 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,236 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,236 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,236 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,237 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,237 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,237 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,237 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,237 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,241 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,241 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,242 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,242 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,242 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,242 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,242 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,243 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,247 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,247 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,247 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,247 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,247 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,248 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,248 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,248 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,248 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,252 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,252 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,253 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,253 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,253 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,253 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,253 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,254 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,257 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,258 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,258 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,258 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,258 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,259 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,259 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,261 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,263 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,263 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,263 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,263 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,263 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,264 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,264 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,264 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,268 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,268 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,268 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,269 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,269 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,269 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,269 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,269 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,270 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,273 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,274 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,274 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,274 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,274 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,274 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,274 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,275 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,279 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,279 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,279 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,279 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,279 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,279 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,280 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,280 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,284 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,284 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,285 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,285 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,285 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,285 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,285 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,286 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,289 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,290 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,290 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,290 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,290 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,291 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,291 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,291 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,291 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,300 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,301 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,301 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,301 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,301 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,301 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,302 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,302 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,302 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,302 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,302 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,303 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,303 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,303 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,303 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,303 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,305 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,305 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,306 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,306 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,306 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,306 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,306 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,306 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,311 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,311 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,311 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,311 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,311 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,311 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,312 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,312 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,312 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,316 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,316 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,317 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,317 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,317 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,317 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,318 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,318 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,321 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,322 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,322 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,322 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,322 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,322 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,322 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,323 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,327 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,327 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,327 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,327 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,327 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,328 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,328 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,328 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,332 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,332 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,332 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,333 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,333 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,333 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,333 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,333 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,333 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,337 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,338 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,338 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,338 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,338 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,338 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,339 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,339 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,343 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,343 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,343 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,343 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,343 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,343 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,344 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,344 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,348 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,348 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,348 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,349 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,349 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,349 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,349 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,350 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,353 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,354 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,354 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,354 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,355 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,355 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,355 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,355 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,356 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,359 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,359 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,359 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,360 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,360 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,360 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,360 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,360 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,364 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,364 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,364 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,365 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,365 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,365 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,365 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,365 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,370 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,370 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,370 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,370 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,371 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,371 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,371 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,371 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,375 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,375 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,375 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,376 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,376 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,376 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,376 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,376 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,377 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,380 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,380 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,381 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,381 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,381 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,381 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,381 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,382 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,386 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,386 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,386 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,386 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,387 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,387 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,387 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,387 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,391 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,391 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,392 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,392 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,392 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,392 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,392 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,393 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,396 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,397 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,397 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,397 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,397 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,397 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,398 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,398 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,398 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,402 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,402 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,402 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,403 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,403 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,403 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,403 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,403 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,407 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,407 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,408 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,408 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,408 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,408 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,408 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,408 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,412 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,412 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,413 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,413 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,413 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,413 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,413 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,414 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,423 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,424 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,424 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,424 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,424 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,425 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,425 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,425 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,425 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,426 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,426 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,426 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,426 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,426 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,426 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,427 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,429 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,429 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,429 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,429 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,429 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,429 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,429 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,430 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,434 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,435 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,435 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,435 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,435 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,436 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,436 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,436 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,440 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,440 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,440 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,440 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,440 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,441 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,441 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,441 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,445 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,445 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,445 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,445 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,446 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,446 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,446 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,446 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,446 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,450 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,450 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,450 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,450 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,450 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,450 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,451 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,451 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,455 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,455 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,455 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,456 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,456 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,456 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,456 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,456 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,460 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,460 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,460 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,461 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,461 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,461 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,461 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,461 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,466 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,466 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,466 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,466 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,466 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,467 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,467 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,467 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,467 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,471 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,471 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,471 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,471 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,472 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,472 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,472 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,472 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,476 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,476 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,477 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,477 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,477 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,477 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,477 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,478 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,482 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,482 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,482 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,482 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,482 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,483 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,483 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,483 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,487 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,487 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,487 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,488 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,488 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,488 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,488 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,488 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,489 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,492 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,493 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,493 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,493 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,493 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,493 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,494 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,494 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,498 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,498 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,498 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,498 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,499 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,499 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,499 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,499 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,503 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,503 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,503 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,504 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,504 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,504 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,504 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,504 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,508 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,509 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,509 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,509 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,509 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,510 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,510 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,510 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,510 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,514 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,514 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,514 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,514 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,514 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,515 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,515 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,515 -   Completed calculations for SpinUp_Climate using AVERAGE MONTHLY data. Ecoregion = eco311, SimulatedYear = AVERAGED.
+2016-01-29 11:53:09,519 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 1992, actualYearUsed=1992.
+2016-01-29 11:53:09,522 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 1993, actualYearUsed=1993.
+2016-01-29 11:53:09,523 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 1994, actualYearUsed=1994.
+2016-01-29 11:53:09,524 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 1995, actualYearUsed=1995.
+2016-01-29 11:53:09,525 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 1996, actualYearUsed=1996.
+2016-01-29 11:53:09,526 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 1997, actualYearUsed=1997.
+2016-01-29 11:53:09,527 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 1998, actualYearUsed=1998.
+2016-01-29 11:53:09,528 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 1999, actualYearUsed=1999.
+2016-01-29 11:53:09,528 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2000, actualYearUsed=2000.
+2016-01-29 11:53:09,529 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2001, actualYearUsed=2001.
+2016-01-29 11:53:09,530 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2002, actualYearUsed=2002.
+2016-01-29 11:53:09,531 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2003, actualYearUsed=2003.
+2016-01-29 11:53:09,532 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2004, actualYearUsed=2004.
+2016-01-29 11:53:09,532 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2005, actualYearUsed=2005.
+2016-01-29 11:53:09,533 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2006, actualYearUsed=2006.
+2016-01-29 11:53:09,534 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2007, actualYearUsed=2007.
+2016-01-29 11:53:09,535 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2008, actualYearUsed=2008.
+2016-01-29 11:53:09,536 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2009, actualYearUsed=2009.
+2016-01-29 11:53:09,536 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2010, actualYearUsed=2010.
+2016-01-29 11:53:09,537 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2011, actualYearUsed=2011.
+2016-01-29 11:53:09,538 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2012, actualYearUsed=2012.
+2016-01-29 11:53:09,539 -   Completed calculations for Future_Climate using Monthly_SequencedYears. Ecoregion = eco311, SimulatedYear = 2013, actualYearUsed=2013.
+2016-01-29 11:53:09,541 -    Opening a Century log file "Century-prob-establish-log.csv" ...
+2016-01-29 11:53:09,550 -    Registering Data:  TimeOfLastSuccession.
+2016-01-29 11:53:09,550 -    Registering Data:  Shade.
+2016-01-29 11:53:09,552 -    Creating Dispersal Neighborhood List.
+2016-01-29 11:53:09,552 -    Dispersal:  NeighborRadius=5125, CellLength=250, numCellRadius=20
+2016-01-29 11:53:09,556 -    Loading biomass parameters for age-only disturbances from file "bio-reductions-standard.txt" ...
+2016-01-29 11:53:09,558 -       Reading CohortBiomassReductions.
+2016-01-29 11:53:09,559 -          Adding disturbance:fire...
+2016-01-29 11:53:09,559 -          Adding disturbance:wind...
+2016-01-29 11:53:09,559 -          Adding disturbance:harvest...
+2016-01-29 11:53:09,560 -       Reading DeadBiomassReductions.
+2016-01-29 11:53:09,560 -          Adding disturbance:fire...
+2016-01-29 11:53:09,562 -    Loading initial communities from file "EMS_initial_community.txt" ...
+2016-01-29 11:53:09,572 -    Reading initial communities map "single_cell_IC_val10.img" ...
+2016-01-29 11:53:09,680 -    Opening Century calibrate log file "Century-calibrate-log.csv" ...
+2016-01-29 11:53:09,697 - Current time: 1
+2016-01-29 11:53:09,698 - Running Century Succession ...
+2016-01-29 11:53:10,013 - Current time: 2
+2016-01-29 11:53:10,013 - Running Century Succession ...
+2016-01-29 11:53:10,265 - Current time: 3
+2016-01-29 11:53:10,266 - Running Century Succession ...
+2016-01-29 11:53:10,515 - Current time: 4
+2016-01-29 11:53:10,515 - Running Century Succession ...
+2016-01-29 11:53:10,788 - Current time: 5
+2016-01-29 11:53:10,788 - Running Century Succession ...
+2016-01-29 11:53:11,039 - Current time: 6
+2016-01-29 11:53:11,040 - Running Century Succession ...
+2016-01-29 11:53:11,295 - Current time: 7
+2016-01-29 11:53:11,295 - Running Century Succession ...
+2016-01-29 11:53:11,585 - Current time: 8
+2016-01-29 11:53:11,585 - Running Century Succession ...
+2016-01-29 11:53:11,859 - Current time: 9
+2016-01-29 11:53:11,859 - Running Century Succession ...
+2016-01-29 11:53:12,124 - Current time: 10
+2016-01-29 11:53:12,124 - Running Century Succession ...
+2016-01-29 11:53:12,380 - Current time: 11
+2016-01-29 11:53:12,380 - Running Century Succession ...
+2016-01-29 11:53:12,687 - Current time: 12
+2016-01-29 11:53:12,688 - Running Century Succession ...
+2016-01-29 11:53:12,955 - Current time: 13
+2016-01-29 11:53:12,955 - Running Century Succession ...
+2016-01-29 11:53:13,211 - Current time: 14
+2016-01-29 11:53:13,211 - Running Century Succession ...
+2016-01-29 11:53:13,480 - Current time: 15
+2016-01-29 11:53:13,480 - Running Century Succession ...
+2016-01-29 11:53:13,766 - Current time: 16
+2016-01-29 11:53:13,766 - Running Century Succession ...
+2016-01-29 11:53:14,030 - Current time: 17
+2016-01-29 11:53:14,030 - Running Century Succession ...
+2016-01-29 11:53:14,292 - Current time: 18
+2016-01-29 11:53:14,293 - Running Century Succession ...
+2016-01-29 11:53:14,601 - Current time: 19
+2016-01-29 11:53:14,601 - Running Century Succession ...
+2016-01-29 11:53:14,885 - Current time: 20
+2016-01-29 11:53:14,885 - Running Century Succession ...
+2016-01-29 11:53:15,153 - Current time: 21
+2016-01-29 11:53:15,153 - Running Century Succession ...
+2016-01-29 11:53:15,420 - Current time: 22
+2016-01-29 11:53:15,421 - Running Century Succession ...
+2016-01-29 11:53:15,689 - Model run is complete.
