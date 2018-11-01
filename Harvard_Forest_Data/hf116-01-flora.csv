@@ -1,0 +1,856 @@
+genus,species,subclass,family,alien,main.habitat,detailed.habitat,life.form,ldetailed.life.form,sum.2007,status,listed.for.hf,verified,reason.not.listed,current,historical,synonyms,common.name,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,t11,grout,simes
+Abies,balsamea,Gymnosperm,Pinaceae,0,F,F,T,TE,2,U,1,1,NA,1,1,NA,Balsam Fir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+Abutilon,theophrasti,Rosidae,Malvaceae,1,O,OP,H,HE,2,U,1,1,NA,1,0,NA,Velvet-leaf Mallow,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acalypha ,rhomboidea,Rosidae,Euphorbiaceae,0,O,OD OG,H,HL,2,U,1,1,NA,1,0,NA,Three-seeded mercuiry,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acer,pensylvanicum,Rosidae,Aceraceae,0,F,F,T,T,26,C,1,1,NA,1,1,NA,Striped Maple,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1
+Acer,rubrum,Rosidae,Aceraceae,0,F,F,T,T,33,C,1,1,NA,1,1,NA,Red Maple,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Acer,saccharum,Rosidae,Aceraceae,0,F,F,T,T,27,C,1,1,NA,1,1,NA,Sugar Maple,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1
+Acer,spicatum,Rosidae,Aceraceae,0,F,F,T,T,9,O,1,1,NA,1,1,NA,Mountain Maple,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1
+Achillea,millefolium,Asteridae,Asteraceae,0,O,OP RP,H,HL,13,F,1,1,NA,1,1,NA,Yarrow,1,0,0,1,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0
+Actaea,pachypoda,Magnoliidae,Ranunculaceae,0,O,FR,H,HS,11,F,1,1,NA,1,1,A. alba,White Baneberry,1,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+Actaea,rubra,Magnoliidae,Ranunculaceae,0,F,FR,H,HS,0,M,1,1,NA,0,1,NA,Red Baneberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adiantum,pedatum,Pteridophyte,Adiantaceae,0,F,FR,F,F,2,U,1,1,NA,1,1,NA,Common Maidenhair,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Aegopodium,podagraria,Rosidae,Apiaceae,1,O,OP,H,HL,4,U,1,1,NA,1,0,NA,Goutweed,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Agalinis,paupercula,Asteridae,Scrophulariaceae,0,W,Wp,H,HL,0,M,1,1,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agalinis,purpurea,Asteridae,Scrophulariaceae,0,W,Wp,H,HL,1,U,1,1,NA,1,1,NA,Purple Gerardia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Agrimonia,gryposepala,Rosidae,Rosaceae,0,F,F,H,HL,3,U,1,1,NA,1,1,NA,Common Agrimony,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Agrostis,canina,Commelinidae,Poaceae,1,O,OD,G,GL,0,M,1,1,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agrostis,capillaris,Commelinidae,Poaceae,1,O,OP RP,G,GL,7,O,1,1,NA,1,1,A. tenuis,Rhode Island Bent,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0
+Agrostis,gigantea,Commelinidae,Poaceae,1,O,OP,G,GL,6,O,1,1,NA,1,0,A. alba,Redtop,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Agrostis,hyemalis s.l.,Commelinidae,Poaceae,0,W,WP,G,GL,4,U,1,1,NA,1,1,A. hyemalis var. scabra,Ticklegrass,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Agrostis,perennans,Commelinidae,Poaceae,0,F,F,G,GL,8,O,1,1,NA,1,1,NA,Bentgrass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,1,1
+Agrostis,stolonifera,Commelinidae,Poaceae,1,W,WS,G,GL,3,U,1,1,NA,1,0,NA,Creeping Bentgrass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Ajuga,reptans,Asteridae,Lamiaceae,1,O,OG,H,HL,3,U,1,1,NA,1,0,NA,Carpet Bugleweed,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Alisma,plantago-aquatica,Alismatidae,Alismataceae,0,W,WP,H,HL,1,U,1,1,NA,1,0,NA,Water-Plantain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Alliaria,petiolata,Dilleniidae,Brassicaceae,1,O,RW,H,HA,7,O,1,1,NA,1,1,A. officinalis,Garlic Mustard,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+Alnus,hirsuta?,Hamameliidae,Betulaceae,1,P,P,T,S,1,U,0,1,NDN,1,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alnus,incana,Hamameliidae,Betulaceae,0,W,WP WB WF,S,S,11,LC,1,1,NA,1,1,NA,Speckled Alder,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+Alnus,serrulata,Hamameliidae,Betulaceae,0,W,WP ,S,S,0,M,0,1,TAX,0,1,A. rubra in Smith,Smooth Alder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alopecurus,pratensis,Commelinidae,Poaceae,1,O,NA,G,GL,0,M,1,1,NA,0,1,NA,Meadow Foxtail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amaranthus,retroflexus,Caryophyllidae,Amaranthaceae,0,O,OD,H,HA,2,U,1,1,NA,1,0,NA,Pigweed,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ambrosia,artemisiifolia,Asteridae,Asteraceae,0,O,OD PR,H,HL,5,U,1,1,NA,1,1,NA,Ragweed,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Amelanchier,canadensis,Rosidae,Rosaceae,0,F,F,T,T,25,C,1,1,NA,1,1,NA,Canada Shadbush,0,1,1,1,0,1,1,1,1,1,0,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Amelanchier,laevis,Rosidae,Rosaceae,0,F,F,T,T,5,U,1,1,NA,1,1,NA,Smooth Shadbush,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0
+Amelanchier,sp.,Rosidae,Rosaceae,0,F,FO,S,S,27,C,0,1,GEN,1,1,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+Amelanchier,stolonifera s.l.,Rosidae,Rosaceae,0,O,NA,S,SE,0,M,1,0,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ampelopsis ,brevipedunculata,Rosidae,Vitaceae,1,O,OG,V,V,1,U,0,1,NDN,1,0,NA,Porcelain-berry,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amphicarpaea,bracteata,Rosidae,Fabaceae,0,F,NA,H,HL,17,F,1,1,NA,1,1,NA,Hog Peanut,1,0,0,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0,1
+Anaphalis,margaritacea,Asteridae,Asteraceae,0,O,OB,H,HL,2,U,1,1,NA,1,1,NA,Pearly Everlasting,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Andromeda,glaucophylla,Dilleniidae,Ericaceae,0,W,WB,S,SE,1,U,1,1,NA,1,0,A. polifolia,Bog Rosemary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Andropogon,gerardii,Commelinidae,Poaceae,0,O,RP,G,GL,3,U,1,1,NA,1,1,NA,Turkeyfoot,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Anemone,americana,Magnoliidae,Ranunculaceae,0,F,FR,H,HE,3,U,1,1,NA,1,1,Hepatica americana,Round-lobed Hepatica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Anemone,quinquefolia,Magnoliidae,Ranunculaceae,0,F,F,H,HS,10,O,1,1,NA,1,1,NA,Wood Anemone,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,1
+Anemone,virginiana,Magnoliidae,Ranunculaceae,0,O,FR,H,HL,1,U,1,1,NA,1,1,NA,Thimbleweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Angelica,atropurpurea,Rosidae,Apiaceae,0,W,WS,H,HL,1,U,1,1,NA,1,0,NA,Angelica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antennaria,neglecta,Asteridae,Asteraceae,0,O,OP RW,H,HS,1,U,1,1,NA,1,1,NA,Small Pussy-toes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antennaria,plantaginifolia,Asteridae,Asteraceae,0,F,FR,H,HS,4,U,1,1,NA,1,1,NA,Plantain-leaved Pussy-toes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Anthemis,cotula,Asteridae,Asteraceae,1,O,OD RP,H,HL,1,U,1,1,NA,1,1,NA,Stinking Chamomile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anthoxanthum,odoratum,Commelinidae,Poaceae,1,O,OP,G,GS,8,O,1,1,NA,1,1,NA,Sweet Vernal Grass,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+Apios,americana,Rosidae,Fabaceae,0,F,RP,H,HL,5,U,1,1,NA,1,1,NA,Groundnut,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Apocynum,androsaemifolium,Asteridae,Apocynaceae,0,O,RP,H,HL,12,F,1,1,NA,1,1,NA,Spreading Dogbane,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,0,1
+Aquilegia,canadensis,Magnoliidae,Ranunculaceae,0,F,FR,H,HS,3,U,1,1,NA,1,1,NA,Wild Columbine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Aquilegia,vulgaris,Magnoliidae,Ranunculaceae,1,F,RW,H,HS,1,U,1,1,NA,1,0,NA,European Columbine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Arabis,glabra,Dilleniidae,Brassicaceae,1,O,NA,H,HL,1,U,1,1,NA,1,0,NA,Tower Mustard,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aralia,hispida,Rosidae,Araliaceae,0,O,OB,H,HL,5,U,1,1,NA,1,1,NA,Bristly Sarsaparilla,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0
+Aralia,nudicaulis,Rosidae,Araliaceae,0,F,F,H,HS,32,C,1,1,NA,1,1,NA,Wild Sarsaparilla,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Aralia,racemosa,Rosidae,Araliaceae,0,F,FR,H,HL,2,U,1,1,NA,1,1,NA,Spikenard,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Aralia,sp.,Rosidae,Araliaceae,1,F,F,T,T,1,U,1,1,NA,1,1,NA,Hercules Club,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arceuthobium,pusillum,Rosidae,Loranthaceae,0,W,WB,S,SDE,1,U,1,1,NA,1,0,NA,Dwarf Mistletoe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Arctium,minus,Asteridae,Asteraceae,1,O,OD,H,HL,2,U,1,1,NA,1,0,NA,Common Burdock,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Arisaema,triphyllum,Alismatidae,Araceae,0,W,WF,H,HS,31,C,1,1,NA,1,1,NA,Jack-in-the-pulpit,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Armoracia,rusticana,Dilleniidae,Brassicaceae,1,O,OP,H,HL,1,U,1,1,NA,1,1,NA,Horseradish,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aronia,arbutifolia,Rosidae,Rosaceae,0,F,F,S,S,7,O,1,1,NA,1,1,NA,Red Chokeberry,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+Aronia,melanocarpa,Rosidae,Rosaceae,0,F,F WB,S,S,11,F,1,1,NA,1,1,NA,Purple Chokeberry,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,1,1,1,0,0
+Aronia,sp.,Rosidae,Rosaceae,0,NA,NA,S,S,4,U,0,1,GEN,1,1,NA,NA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+Arrhenatherum,elatius,Commelinidae,Poaceae,1,O,OD,G,GL,4,U,1,1,NA,1,1,NA,Tall Oatgrass,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Artemisia,vulgaris,Asteridae,Asteraceae,1,O,OD RP,H,HL,3,U,1,1,NA,1,0,NA,Mugwort,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asarum,canadense,Magnoliidae,Aristolochiaceae,0,F,FR,H,HS,0,M,1,1,NA,0,1,NA,Wild Ginger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asclepias,exaltata,Asteridae,Asclepiadaceae,0,F,F,H,HL,5,U,1,1,NA,1,1,NA,Poke Milkweed,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Asclepias,incarnata,Asteridae,Asclepiadaceae,0,W,WP,H,HL,2,U,1,1,NA,1,1,NA,Swamp Milkweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Asclepias,syriaca,Asteridae,Asclepiadaceae,0,O,OP,H,HL,7,O,1,1,NA,1,1,NA,Common Milkweed,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0
+Asplenium,platyneuron,Pteridophyte,Aspleniaceae,0,F,FR,F,FE,1,U,1,1,NA,1,1,NA,Ebony Splenwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asplenium,trichomanes,Pteridophyte,Aspleniaceae,0,F,FR,F,FE,1,U,1,1,NA,1,0,NA,Maidenhair Spleenwoirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Aster,acuminatus,Asteridae,Asteraceae,0,F,F,H,HL,28,C,1,1,NA,1,1,NA,Acuminate Aster,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Aster,cordifolius,Asteridae,Asteraceae,0,F,FR,H,HL,3,U,1,1,NA,1,0,NA,Heart-leaved Aster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Aster,divaricatus,Asteridae,Asteraceae,0,F,F,H,HL,31,C,1,1,NA,1,1,NA,White Wood Aster,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1
+Aster,ericoides,Asteridae,Asteraceae,0,O,OP OD,H,HL,0,M,1,1,NA,0,1,NA,Heath Aster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aster,fragilis,Asteridae,Asteraceae,0,O,RW,H,HL,9,O,1,1,NA,1,1,A. vimineus, ,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0
+Aster,laevis,Asteridae,Asteraceae,0,O,OP RW,H,HL,6,O,1,1,NA,1,1,NA,Smooth Blue Aster,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+Aster,lateriflorus,Asteridae,Asteraceae,0,O,RW,H,HL,15,F,1,1,NA,1,1,NA,Calico Aster,1,0,0,0,1,0,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0
+Aster,linariifolius,Asteridae,Asteraceae,0,O,OB ,H,HL,1,U,1,1,NA,1,1,NA,Linear-leaved Aster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Aster,macrophyllus,Asteridae,Asteraceae,0,F,FO ,H,HL,5,U,1,1,NA,1,1,NA,Large-leaved Aster,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+Aster,nemoralis,Asteridae,Asteraceae,0,W ,WB,H,HL,1,U,1,1,NA,1,0,NA,Bog Aster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Aster,novae-angliae,Asteridae,Asteraceae,0,O,OP,H,HL,1,U,1,1,NA,1,1,NA,New England Aster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Aster,novi-belgii,Asteridae,Asteraceae,0,W,WP WS,H,HL,12,F,1,1,NA,1,1,NA,New York Aster,1,1,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,1
+Aster,paternus,Asteridae,Asteraceae,0,F,FO,H,HL,0,M,1,1,NA,0,1,Sericocarpus p.,Flat-topped Aster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aster,pilosus,Asteridae,Asteraceae,0,O,OP,H,HL,0,M,1,1,NA,0,1,NA,Pilose Aster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aster,puniceus,Asteridae,Asteraceae,0,W,WS WF ,H,HL,9,O,1,1,NA,1,1,NA,Pumice Aster,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+Aster,umbellatus,Asteridae,Asteraceae,0,W,WS WF WO,H,HL,12,F,1,1,NA,1,1,NA,Umbellate Aster,0,1,1,1,0,0,0,1,1,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+Aster,undulatus,Asteridae,Asteraceae,0,F,FO OP,H,HL,4,U,1,1,NA,1,1,NA,Wavy-leaf Aster,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Athyrium,filix-femina,Pteridophyte,Aspleniaceae,0,F,F OG RW,F,F,24,C,1,1,NA,1,1,A. angustum,Lady Fern,0,0,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1
+Aureolaria,pedicularia,Asteridae,Scrophulariaceae,0,F,FR,H,HL,1,U,1,1,NA,1,0,NA,Cutleaf False-foxglove,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aureolaria,virginica,Asteridae,Scrophulariaceae,0,F,FR,H,HL,1,U,1,1,NA,1,0,NA,Downy False-Foxglove,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Barbarea,vulgaris,Dilleniidae,Brassicaceae,1,O,OD OP,H,HS,2,U,1,1,NA,1,1,NA,Wintercress,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bartonia,virginica,Asteridae,Gentianaceae,0,F,NA,H,HL,3,U,1,1,NA,1,1,NA,Bartonia,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Berberis,thunbergii,Magnoliidae,Berberidaceae,1,F,F,S,S,14,F,1,1,NA,1,0,NA,Japanese Barberry,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0,1
+Berberis,vulgaris,Magnoliidae,Berberidaceae,1,F O,F O,S,S,0,M,1,0,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Betula,alleghaniensis,Hamameliidae,Betulaceae,0,F,F,T,T,27,C,1,1,NA,1,1,B. lutea,Yellow Birch,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1
+Betula,lenta,Hamameliidae,Betulaceae,0,F,F,T,T,26,C,1,1,NA,1,1,NA,Black Birch,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1
+Betula,papyrifera,Hamameliidae,Betulaceae,0,F,F,T,T,27,C,1,1,NA,1,1,NA,Heart-leaved Paper Birch,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Betula,populifolia,Hamameliidae,Betulaceae,0,F,F,T,T,14,F,1,1,NA,1,1,NA,Gray Birch,1,0,1,1,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0
+Bidens,cernuus,Asteridae,Asteraceae,0,W,WP WO,H,HA,8,O,1,1,NA,1,1,NA,Nodding Beggar's-ticks,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,1
+Bidens,connatus,Asteridae,Asteraceae,0,W,WO WP WF,H,HA,8,O,1,1,NA,1,0,B. tripartitus,Beggar's-ticks,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1
+Bidens,frondosus,Asteridae,Asteraceae,0,W,WO WP,H,HA,15,F,1,1,NA,1,1,NA,Beggar's-ticks,0,1,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,1,0,0,0,0,1,1,1,0,1,1,0,1
+Bidens,vulgatus,Asteridae,Asteraceae,0,O,RP,H,HA,1,U,1,1,NA,1,0,NA,Tall Beggar's-ticks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boehmeria,cylindrica,Hamameliidae,Urticaceae,0,W,WS,H,HA,5,U,1,1,NA,1,1,NA,False Nettle,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Botrychium,dissectum,Pteridophyte,Ophioglossaceae,0,O F,OP F,F,F,1,U,1,1,NA,1,1,NA,Dissected Grapefern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Botrychium,lanceolatum,Pteridophyte,Ophioglossaceae,0,F,FR,F,F,1,U,1,1,NA,1,1,NA,Triangle Grape Fern,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Botrychium,oneidense,Pteridophyte,Ophioglossaceae,0,O F,OP F,F,F,0,M,1,0,NA,0,1,B. obliquum var. oneidense,Blunt-lobed Grapefern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Botrychium,simplex,Pteridophyte,Ophioglossaceae,0,O F,OP F,F,F,0,M,1,1,NA,0,1,NA,Least Grapefern; Dwarf Grapefern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Botrychium,virginianum,Pteridophyte,Ophioglossaceae,0,F,FR,F,F,1,U,1,1,NA,1,1,NA,Rattlesnake Fern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Botrychium,multifidum,Pteridophyte,Ophioglossceae,0,F,F,F,FE,0,M,1,1,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brachyelytrum,septentrionale,Commelinidae,Poaceae,0,F,F,G,GL,29,C,1,1,NA,1,1,B. erectum,Hairy Woods Grass,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Brasenia,schreberi,Magnoliidae,Cabombaceae,0,W,WP,A,AF,4,LC,1,1,NA,1,1,NA,Water Shield,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Brassica,sp.,Dilleniidae,Brassicaceae,1,O,OD OC,H,HA,0,M,1,0,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bromus,ciliatus,Commelinidae,Poaceae,0,W,WO WF,G,GL,2,U,1,1,NA,1,1,NA,Fringed Brome,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bulbostylis,capillaris,Commelinidae,Cyperaceae,0,O,RP,G,GA,3,U,1,1,NA,1,0,NA,SAND SEDGE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Calamagrostis,canadensis,Commelinidae,Poaceae,0,W,WO WS WP,G,GL,9,O,1,1,NA,1,1,NA,Common Bluejoint Grass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1
+Calla,palustris,Alismatidae,Araceae,0,W,WB,H,HL,7,O,1,1,NA,1,1,NA,Wild Calla,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1
+Callitriche,heterophylla,Asteridae,Callitrichaceae,0,W,WP,A,AF,2,U,1,1,NA,1,1,NA,Common Water-starwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Callitriche,verna,Asteridae,Callitrichaceae,0,W,WP,A,AS,0,M,1,1,NA,0,1,C. palustris,Marsh Starwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calopogon,tuberosus,Liliidae,Orchidaceae,0,W,WB,H,HL,0,M,1,1,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Caltha,palustris,Magnoliidae,Ranunculaceae,0,W,WP,H,HS,9,O,1,1,NA,1,1,NA,Marsh Marigold,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+Calystegia,sepium,Asteridae,Convolvulaceae,0,O,OD,H,HA,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campanula,aparinoides,Asteridae,Campanulaceae,0,W,WS,H,HL,1,U,1,1,NA,1,0,NA,Marsh Bellwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campanula,rapanunculoides,Asteridae,Campanulaceae,1,NA,NA,H,NA,1,U,0,1,NDN,1,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capsella,bursa-pastoris,Dilleniidae,Brassicaceae,1,O,OD OG,H,HA,1,U,1,1,NA,1,1,NA,Shepherd's Purse,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cardamine,pensylvanica,Dilleniidae,Brassicaceae,0,W,WS,H,HS,6,O,1,1,NA,1,1,NA,Pensylvania Bittercress,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Carex,abscondita,Commelinidae,Cyperaceae,0,F,FR,G,GS,0,M,1,1,NA,0,1,C. ptychocarpa,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,albicans var. emmonsii,Commelinidae,Cyperaceae,0,F,FO,G,GS,4,U,1,1,NA,1,1,NA,NA,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,annectens,Commelinidae,Cyperaceae,0,O,OP,G,GL,2,U,1,1,NA,1,1,C. vulpinoidea var. ambigua,Yellow-fruited Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Carex,appalachica,Commelinidae,Cyperaceae,0,F,F,G,GS,6,O,1,1,NA,1,1,NA,Appalachian Sedge,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+Carex,arctata,Commelinidae,Cyperaceae,0,F,FR,G,GE,17,F,1,1,NA,1,1,NA,Arching Sedge,0,0,1,1,0,1,1,0,1,1,0,0,1,1,0,0,0,1,0,1,1,1,0,1,1,0,1,1,0,0,0,0,1
+Carex,argyrantha,Commelinidae,Cyperaceae,0,O,RW,G,GL,4,U,1,1,NA,1,0,NA,Silver-flowered Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1
+Carex,atlantica var. capillacea,Commelinidae,Cyperaceae,0,W,WF,G,GL,2,U,1,1,NA,1,1,C. howei,Howe's Sedge,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Carex,blanda,Commelinidae,Cyperaceae,0,F,FR,G,GE,4,U,1,1,NA,1,1,NA,Sexy Woods Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+Carex,brevior,Commelinidae,Cyperaceae,0,O,OD,G,GL,1,U,1,1,NA,1,1,NA,Short-headed Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Carex,bromoides,Commelinidae,Cyperaceae,0,W,WS WF,G,GL,3,U,1,1,NA,1,0,NA,Brome-like Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Carex,brunnescens,Commelinidae,Cyperaceae,0,W,WF,G,GL,14,F,1,1,NA,1,1,NA,Brownish Sedge,1,1,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,1
+Carex,canescens,Commelinidae,Cyperaceae,0,W,WP,G,GL,8,O,1,1,NA,1,1,NA,Sedge,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+Carex,cephalophora,Commelinidae,Cyperaceae,0,O,OD,G,GL,1,U,1,1,NA,1,1,NA,Head-bearing Sedge,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,communis,Commelinidae,Cyperaceae,0,F,F,G,GE,20,F,1,1,NA,1,1,NA,Common Woodland Sedge,0,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,0,0,1
+Carex,comosa,Commelinidae,Cyperaceae,0,W,WP,G,GL,2,U,1,1,NA,1,1,NA,Bristly Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,crinita,Commelinidae,Cyperaceae,0,W,WP,G,GL,4,U,1,1,NA,1,1,NA,Long-hair Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Carex,cryptolepis,Commelinidae,Cyperaceae,0,W,WP,G,GS,0,M,1,1,NA,0,1,NA,Hidden-scale Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,debilis,Commelinidae,Cyperaceae,0,F,F,G,GE,27,C,1,1,NA,1,1,NA,Feeble Woodland Sedge,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1
+Carex,deweyana,Commelinidae,Cyperaceae,0,F,FR,G,GS,4,U,1,1,NA,1,1,NA,Dewey's Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Carex,digitalis,Commelinidae,Cyperaceae,0,F,F,G,GE,14,F,1,1,NA,1,1,NA,Finger-like Sedge,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,1,1,1,0,0,0,0,0,1,0,1,1,0,0,1,0,0,1
+Carex,disperma,Commelinidae,Cyperaceae,0,W,WF,G,GS,1,U,1,1,NA,1,1,NA,Two-fruited Sedge,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,echinata,Commelinidae,Cyperaceae,0,W,WP,G,GS,8,O,1,1,NA,1,1,NA,Little Prickly Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,0,0
+Carex,folliculata,Commelinidae,Cyperaceae,0,W,WP WF,G,GL,17,F,1,1,NA,1,1,NA,Folliculate Sedge,0,1,1,1,0,0,1,1,0,0,1,0,0,1,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0,1
+Carex,gracillima,Commelinidae,Cyperaceae,0,F,F,G,GE,11,F,1,1,NA,1,1,NA,Graceful Sedge,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+Carex,granularis,Commelinidae,Cyperaceae,0,O,OP,G,GS,0,M,1,1,NA,0,1,NA,Granular Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,gynandra,Commelinidae,Cyperaceae,0,W,WS WP WO,G,GL,20,F,1,1,NA,1,1,NA,Gynandrous Sedge,1,0,0,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1
+Carex,intumescens,Commelinidae,Cyperaceae,0,W,WF,G,GE,19,F,1,1,NA,1,1,NA,Bladder Sedge,0,0,0,1,0,0,1,1,1,0,1,1,0,1,1,1,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,1
+Carex,lacustris,Commelinidae,Cyperaceae,0,W,WO,G,GL,1,U,1,1,NA,1,1,NA,Lakeshore Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Carex,lasiocarpa,Commelinidae,Cyperaceae,0,W,WB,G,GL,2,U,1,1,NA,1,1,NA,Sedge,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Carex,laxiculmis,Commelinidae,Cyperaceae,0,F,FR,G,GE,3,U,1,1,NA,1,0,NA,Weak-stemmed Sedge,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,laxiflora,Commelinidae,Cyperaceae,0,F,FR,G,GE,7,O,1,1,NA,1,1,NA,Loosely-flowered Sedge,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+Carex,leptalea,Commelinidae,Cyperaceae,0,W,WF WP,G,GS,4,U,1,1,NA,1,1,NA,Delicate-stemmed Sedge,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+Carex,leptonervia,Commelinidae,Cyperaceae,0,F,F,G,GE,11,F,1,1,NA,1,1,NA,Few-nerved Sedge,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0
+Carex,lucorum,Commelinidae,Cyperaceae,0,F,F,G,GE,0,M,1,1,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,lupulina,Commelinidae,Cyperaceae,0,W,WF,G,GL,2,U,1,1,NA,1,1,NA,Common Hop Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Carex,lurida,Commelinidae,Cyperaceae,0,W,WO RW,G,GL,18,F,1,1,NA,1,1,NA,Garish Sedge,0,1,0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0,1
+Carex,meritt-fernaldii,Commelinidae,Cyperaceae,0,O,OD,G,GL,0,M,1,1,NA,0,1,NA,Fernald's Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,muhlenbergii,Commelinidae,Cyperaceae,0,O,OD,G,GL,1,U,1,1,NA,0,1,NA,Muhlenberg's Sedge,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,normalis,Commelinidae,Cyperaceae,0,O,OP RW,G,GL,15,F,1,1,NA,1,1,NA,Right-angle Sedge,1,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,1,0,0,1,1
+Carex,novae-angliae,Commelinidae,Cyperaceae,0,F,F,G,GE,4,U,1,1,NA,1,0,NA,New England Sedge,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,ormostachya,Commelinidae,Cyperaceae,0,F,F,G,GS,1,U,1,1,NA,1,0,NA, ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,pallescens,Commelinidae,Cyperaceae,0,O,OP,G,GL,3,U,1,1,NA,1,1,NA,Pale Sedge,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,pedunculata,Commelinidae,Cyperaceae,0,F,FR,G,GE,4,U,1,1,NA,1,0,NA,Peduncled Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Carex,pensylvanica,Commelinidae,Cyperaceae,0,F,F,G,GE,28,C,1,1,NA,1,1,NA,Pennsylvania Sedge,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Carex,plantaginea,Commelinidae,Cyperaceae,0,F,FR,G,GE,1,U,1,1,NA,1,0,NA,Plantain-leaved Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Carex,platyphylla,Commelinidae,Cyperaceae,0,F,FR,G,GE,1,U,1,1,NA,1,1,NA,Broad-leaved Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,prasina,Commelinidae,Cyperaceae,0,F W,FR WS,G,GS,1,U,1,1,NA,1,0,NA,Leek-colored Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Carex,projecta,Commelinidae,Cyperaceae,0,O W,RW WS,G,GL,5,U,1,1,NA,1,1,NA,Seminar Sedge,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Carex,radiata,Commelinidae,Cyperaceae,0,F,F,G,GL,13,F,1,1,NA,1,1,NA,Spreading-fruited Sedge,0,0,1,0,0,1,1,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Carex,rosea,Commelinidae,Cyperaceae,0,F,FR,G,GL,3,U,1,1,NA,1,1,NA,Roseate Sedge,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Carex,scabrata,Commelinidae,Cyperaceae,0,W,WS,G,GL,3,U,1,1,NA,1,1,NA,Rough-stemed Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Carex,scoparia,Commelinidae,Cyperaceae,0,W O,WO RW OP,G,GL,15,F,1,1,NA,1,1,NA,Sedge,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,1,1,0
+Carex,stipata,Commelinidae,Cyperaceae,0,W,WO,G,GL,6,O,1,1,NA,1,1,NA,Stipitate Sedge,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0
+Carex,stricta,Commelinidae,Cyperaceae,0,W,WO WB,G,GS,6,O,1,1,NA,1,0,NA,Common Tussock Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1
+Carex,swanii,Commelinidae,Cyperaceae,0,F,F,G,GL,24,C,1,1,NA,1,1,NA,Swan's Sedge,1,0,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+Carex,tenera,Commelinidae,Cyperaceae,0,O,RW,G,GL,7,O,1,1,NA,1,1,NA,Slender Sedge (II),0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Carex,torta,Commelinidae,Cyperaceae,0,W,WS,G,GS,5,U,1,1,NA,1,0,NA,Twisted Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+Carex,tribuloides,Commelinidae,Cyperaceae,0,O,RW,G,GL,1,U,1,1,NA,1,1,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,trisperma,Commelinidae,Cyperaceae,0,W,WF WB,G,GS,12,F,1,1,NA,1,1,NA,Billings Three-seeded Sedge,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1
+Carex,tuckermanii,Commelinidae,Cyperaceae,0,W,WP,G,GS,1,U,1,1,NA,1,1,NA,Tuckerman's Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Carex,umbellata,Commelinidae,Cyperaceae,0,O,OB,G,GE,3,U,1,1,NA,1,1,NA,Umbellate Sedge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+Carex,utriculata,Commelinidae,Cyperaceae,0,W,WO WB,G,GL,5,U,1,1,NA,1,1,NA,Bladder Sedge (II),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1
+Carex,vesicaria,Commelinidae,Cyperaceae,0,WW,WO,G,GL,2,U,1,1,NA,1,1,NA,Bladder Sedge (III),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Carex,vestita,Commelinidae,Cyperaceae,0,F,FO,G,GS,0,M,1,1,NA,0,1,NA, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carex,virescens,Commelinidae,Cyperaceae,0,O,RW,G,GL,7,O,1,1,NA,1,1,NA,Greenish Sedge,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Carex,vulpinoidea,Commelinidae,Cyperaceae,0,W,WO,G,GL,2,U,1,1,NA,1,1,NA,Foxtail Sedge (II),0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carpinus,caroliniana,Hamameliidae,Betulaceae,0,W,WS,T,T,4,U,1,1,NA,1,1,NA,Musclewood,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Carum,carvi,Rosidae,Apiaceae,1,O,OD,H,HA,0,M,1,1,NA,0,1,NA,Caraway,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carya,cordiformis,Hamameliidae,Juglandaceae,0,F,FR,T,T,1,U,0,0,NC,0,0,NA,Bitternut Hickory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Carya,glabra,Hamameliidae,Juglandaceae,0,F,F,T,T,4,U,1,1,NA,1,1,NA,Pignut Hickory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Carya,ovata,Hamameliidae,Juglandaceae,0,F,F,T,T,10,O,1,1,NA,1,1,NA,Shagbark Hickory,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+Castanea,dentata,Hamameliidae,Fagaceae,0,F,F,T,T,28,C,1,1,NA,1,1,NA,Chstnut,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Castanea,mollissima,Hamameliidae,Fagaceae,1,F,F,T,T,1,U,0,1,NDN,1,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Caulophyllum,thalictroides,Magnoliidae,Berberidaceae,0,F,FR,H,HS,1,U,1,1,NA,1,1,NA,Blue Cohoosh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Celastrus,orbiculatus,Rosidae,Celastraceae,1,O,OE,V,V,13,F,1,1,NA,1,0,NA,Oriental Bittersweet,1,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,0,1
+Celastrus,scandens,Rosidae,Celastraceae,0,O,OE,V,V,0,M,1,1,NA,0,1,NA,Common Bittersweet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Centaurea,biebersteinii,Asteridae,Asteraceae,1,O,OD,H,HL,1,U,1,1,NA,1,0,NA,Spotted Knapweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Cephalanthus,occidentalis,Asteridae,Rubiaceae,0,W,WP,S,S,6,O,1,1,NA,1,1,NA,Buttonbush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+Cerastium,fontanum,Caryophyllidae,Caryophyllaceae,1,O,OG,H,HA,5,U,1,1,NA,1,1,C. vulgatum,Common Mouse-eared Chickweed,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+Chamaedaphne,calyculata,Dilleniidae,Ericaceae,0,W,WB,S,SE,9,O,1,1,NA,1,1,NA,Leatherleaf,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1
+Chamaesyce,maculata,Rosidae,Euphorbiaceae,0,O,OD RP,H,HA,1,U,1,1,NA,1,1,Euphorbia m.,Common Spurge,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chelidonium,majus,Magnoliidae,Papaveraceae,1,O,OG OD,H,HL,5,U,1,1,NA,1,1,NA,Celandine poppy,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chelone,glabra,Asteridae,Scrophulariaceae,0,W,WS,H,HL,12,F,1,1,NA,1,1,NA,Turtlehead,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1
+Chenopodium,album,Caryophyllidae,Chenopodiaceae,1,O,OD,H,HA,4,U,1,1,NA,1,0,NA,Pigweed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Chimaphila,maculata,Dilleniidae,Pyrolaceae,0,F,F,S,SDE,16,F,1,1,NA,1,0,NA,Spotted Pipsissewa,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1
+Chimaphila,umbellata,Dilleniidae,Pyrolaceae,0,F,F,S,SDE,10,O,1,1,NA,1,1,NA,Pipsissewa,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1
+Chrysanthemum,leucanthemum,Asteridae,Asteraceae,1,O,OP RW RP,H,HL,10,O,1,1,NA,1,1,NA,Ox-eye Daisy,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1
+Chrysosplenium,americanum,Rosidae,Saxifragaceae,0,W,WF WS,H,HS,3,U,1,1,NA,1,1,NA,Golden Saxifrage,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Cichorium,intybus,Asteridae,Asteraceae,1,O,RP,H,HL,1,U,1,1,NA,1,0,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cicuta,bulbifera,Rosidae,Apiaceae,0,W,WO,H,HL,4,U,1,1,NA,1,1,NA,Bulblet Water-hemlock,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Cicuta,maculata,Rosidae,Apiaceae,0,W ,WO,H,HL,4,U,1,1,NA,1,0,NA,Spotted Water-hemlock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+Cinna,latifolia,Commelinidae,Poaceae,0,F,F,H,HL,13,F,1,1,NA,1,1,NA,Drooping woodreed,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,1,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1
+Circaea,alpina,Rosidae,Onagraceae,0,W,WF,H,HL,4,U,1,1,NA,1,1,NA,Small Enchanter's Nightshade,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Circaea,lutetiana,Rosidae,Onagraceae,0,F,F,H,HL,13,F,1,1,NA,1,1,C. quadrisulcata; C. latifolia;,Large Enchanter's Nightshade,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,1
+Cirsium,arvense,Asteridae,Asteraceae,1,O,OP,H,HL,2,U,1,1,NA,1,1,NA,Canada Thistle,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cirsium,vulgare,Asteridae,Asteraceae,1,O,OD,H,HL,3,U,1,1,NA,1,1,C. lanceolatum,Common Thistle,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cladium,mariscoides,Commelinidae,Cyperaceae,0,W,WP,G,GL,2,U,1,1,NA,1,0,NA,Twig Rush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Clematis,virginiana,Magnoliidae,Ranunculaceae,0,O,OE,H,HL,7,O,1,1,NA,1,1,NA,Virgin's Bower,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Clethra,alnifolia,Dilleniidae,Clethraceae,0,W,WP,S,S,1,U,1,1,NA,1,1,NA,Sweet pepperbush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Clinopodium,vulgare,Asteridae,Lamiaceae,0,O,OD OP,H,HL,2,U,1,1,NA,1,0,Satureja vulgaris,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Clintonia,borealis,Liliidae,Liliaceae,0,F,F,H,HS,27,C,1,1,NA,1,1,NA,Woodlily,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Coeloglossum,viride,Liliidae,Orchidaceae,0,F,F,H,HL,1,U,1,1,NA,1,0,Habenaria viridis var. bracteata,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Comandra,umbellata,Rosidae,Santalaceae,0,F,FO,H,HL,0,M,1,1,NA,0,1,NA,Bastard Toadflax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Commelina,communis,Commelinidae,Commelinaceae,1,O,OP,H,HL,2,U,1,1,NA,1,0,NA,Common Dayflower,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Comptonia,peregrina,Hamameliidae,Myricaceae,0,O,OB,S,S,16,F,1,1,NA,1,1,Myrica asplenifolia,Sweetfern,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,1
+Convalaria,majalis,Liliidae,Liliaceae,1,O,OG,H,HS,1,U,0,1,NDN,1,0,NA,Lilly-of-the-Valley,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyza,canadensis,Asteridae,Asteraceae,0,O,OD RP,H,HA,4,U,1,1,NA,1,0,Erigeron canadensis,Horseweed,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Coptis,trifolia,Magnoliidae,Ranunculaceae,0,W,WF,H,HS,22,C,1,1,NA,1,1,C. groenlandica,Goldthread,1,0,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,0,0,1,0,1,1,1,1,0,1,1,1,1,0,0,1
+Corallorhiza,maculata,Liliidae,Orchidaceae,0,F,F,H,HL,1,U,1,1,NA,1,1,NA,Spotted Coralroot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Corallorhiza,trifida,Liliidae,Orchidaceae,0,W,WF,H,HS,2,U,1,1,NA,1,1,NA,Early Coralroot,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Cornus,alternifolia,Rosidae,Cornaceae,0,F,F,S,S,17,F,1,1,NA,1,1,NA,Alternate-leaved Dogwood,1,0,1,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0,1,0,1,1,1,1,1,0,0,0,1,1
+Cornus,amomum,Rosidae,Cornaceae,0,W,WO,S,S,4,U,1,1,NA,1,1,C. obliqua,Silky Dogwood,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Cornus,canadensis,Rosidae,Cornaceae,0,F,F,S,S,20,F,1,1,NA,1,1,NA,Bunchberry,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,1,1,1,1,0,0,1
+Cornus,florida,Rosidae,Cornaceae,0,F,FR,S,S,0,M,1,1,NA,0,1,NA,Flowering Dogwood,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cornus,racemosa,Rosidae,Cornaceae,0,O,OE OT,S,S,0,M,1,1,NA,0,1,C. paniculata,Gray Dogwood,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cornus,rugosa,Rosidae,Cornaceae,0,F,FR,S,S,2,U,1,1,NA,1,1,NA,Round-leaved Dogwood,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Cornus,sericea,Rosidae,Cornaceae,0,W,WO,S,S,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Corydalis,sempervirens,Magnoliidae,Fumariaceae,0,O,OB,H,HS,1,U,1,1,NA,1,1,NA,Pale Corydalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Corylus,americana,Hamameliidae,Betulaceae,0,O,OE,S,S,0,M,1,1,NA,0,1,NA,American Hazelnut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Corylus,cornuta,Hamameliidae,Betulaceae,0,F,F,S,S,17,F,1,1,NA,1,1,NA,Beaked Hazelnut,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1
+Crataegus,macrosperma,Rosidae,Rosaceae,0,F,F,T,T,1,?,1,1,NA,1,0,NA,Hawthornes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Crataegus,sp.,Rosidae,Rosaceae,0,F,F,T,T,25,C,1,1,NA,1,1,NA,Hawthornes,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,1,0,1,1,1,0,1,1,0,1,0,1,1
+Crocus?,sp.,Liliidae,Iridaceae,1,NA,NA,H,NA,1,U,0,0,NDN,1,0,NA,Crocus,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cuscuta,gronovii,Asteridae,Cuscutaceae,0,W,WS WP,H,HA,4,U,1,1,NA,1,1,NA,Common Dodder,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cynoglossum,virginianum,Asteridae,Boraginaceae,0,F,FR,H,HL,0,M,1,1,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cyperus,bipartitus,Commelinidae,Cyperaceae,0,W,WP,G,GA,1,U,1,1,NA,1,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cyperus,erythrorhizos,Commelinidae,Cyperaceae,0,W,WP,G,GA,1,LF,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Cyperus,esculentus,Commelinidae,Cyperaceae,0,W,WP,G,GL,1,U,1,1,NA,1,0,NA,Sweet Cyperus,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cyperus,lupulinus,Commelinidae,Cyperaceae,0,O,RP,G,GL,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Cyperus,strigosus,Commelinidae,Cyperaceae,0,W,WO,G,GL,1,U,1,1,NA,1,0,NA,Umbrella-sedge,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cypripedium,acaule,Liliidae,Orchidaceae,0,F,F,H,HS,24,C,1,1,NA,1,1,NA,Pink Lady's Slipper,0,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0,1
+Cystopteris,fragilis,Pteridophyte,Aspleniaceae,0,FR,FR,F,F,3,U,1,1,NA,1,1,C. tenuis,Fragile Fern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Dactylis,glomerata,Commelinidae,Poaceae,1,O,OP,G,GL,9,O,1,1,NA,1,1,NA,Orchard Grass,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1
+Dalibarda,repens,Rosidae,Rosaceae,0,F W,F WF,H,HL,13,F,1,1,NA,1,1,NA,Dewdrop,0,1,1,1,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1
+Danthonia,compressa,Commelinidae,Poaceae,0,F,RW,G,GL,26,C,1,1,NA,1,1,NA,Oatgrass,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1
+Danthonia,spicata,Commelinidae,Poaceae,0,O,OB FO ,G,GL,20,F,1,1,NA,1,1,NA,Oatgrass,1,0,0,1,0,0,0,1,1,1,0,1,0,1,1,0,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1
+Daucus,carota,Rosidae,Apiaceae,1,O,OP RP,H,HL,1,U,1,1,NA,1,0,NA,Queen Anne's Lace,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Decodon,verticillatus,Rosidae,Lythraceae,0,W,WP,S,S,2,LC,1,1,NA,1,1,NA,Water Willow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Dennstaedtia,punctilobula,Pteridophyte,Dennstaedtiaceae,0,F,F,F,F,32,C,1,1,NA,1,1,NA,Hay-scented Fern,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Deparia,acrostichoides,Pteridophyte,Dryopteridaceae,0,F,FR,F,F,7,O,1,1,NA,1,1,Athyrium acrostichoides; A. the,Silvery Glade Fern,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+Desmodium,glutinosum,Rosidae,Fabaceae,0,O,FR,H,HL,2,U,1,1,NA,1,0,NA,Sticky Tick-trefoil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Desmodium,nudiflorum,Rosidae,Fabaceae,0,F,FR,H,HL,4,U,1,1,NA,1,1,NA,Common Tick-trefoil,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Dianthus,armeria,Caryophyllidae,Caryophyllaceae,1,O,OP,H,HL,0,M,1,1,NA,0,1,NA,Deptford Pink,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dianthus,barbatus,Caryophyllidae,Caryophyllaceae,1,O,OP,H,HL,1,U,1,1,NA,1,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dianthus,deltoides,Caryophyllidae,Caryophyllaceae,1,O,OP,H,HL,4,U,1,1,NA,1,1,NA,Maiden Pink,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dicentra,eximia,Magnoliidae,Fumariaceae,1,O,OD,H,HL,1,U,1,1,NA,1,1,NA,Bleeding Heart,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dichanthelium,acuminatum ssp. columbianum,Commelinidae,Poaceae,0,O,OB,G,GL,2,U,1,1,NA,1,1,Panicum columbianum,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Dichanthelium,acuminatum ssp. fasciculatum,Commelinidae,Poaceae,0,O W,OB RW WO,G,GL,11,F,1,1,NA,1,1,Panicum lanuginosum var. fasiculatum,NA,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+Dichanthelium,acuminatum ssp. implicatum,Commelinidae,Poaceae,0,O,O,G,GL,4,U,1,1,NA,1,1,Panicum lanuginosum var. implicatum,NA,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Dichanthelium,acuminatum ssp. spretum,Commelinidae,Poaceae,0,O,O,G,GL,0,M,1,1,NA,0,1,Panicum spretum,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dichanthelium,boreale,Commelinidae,Poaceae,0,W,WO WS WP,G,GL,7,O,1,1,NA,1,1,Panicum b.,NA,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Dichanthelium,clandestinum,Commelinidae,Poaceae,0,O W,RP RW WS WP,G,GL,14,F,1,1,NA,1,1,NA,Deer-tongue Grass,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,0,0,1,1,0,0,1,0,1,1,0,1,1,0,0,0,1
+Dichanthelium,dichotomum,Commelinidae,Poaceae,0,F,FR,G,GL,0,M,1,1,NA,0,1,Panicum d.,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dichanthelium,latifolium,Commelinidae,Poaceae,0,F,FR,G,GL,2,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Dichanthelium,linearifolium,Commelinidae,Poaceae,0,O,OB RP RW,G,GL,5,U,1,1,NA,1,1,NA,NA,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Dichanthelium,xanthophysum,Commelinidae,Poaceae,0,F,FO,G,GL,0,M,1,1,NA,0,1,NA,Yellow-fruited Panic Grass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diervilla,lonicera,Asteridae,Caprifoliaceae,0,F,FO,S,S,21,C,1,1,NA,1,1,NA,Bush Honeysuckle,1,1,1,1,0,1,1,1,1,0,0,0,0,1,0,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0,1
+Digitalis,sp.,Asteridae,Scrophulariaceae,1,O,RW,H,HL,1,U,1,1,NA,1,0,NA,Digitalis cultivar - yellow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Digitaria,ischaemum,Commelinidae,Poaceae,1,O,OP RP,G,GA,8,O,1,1,NA,1,0,NA,Smooth Crabgrass,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0
+Digitaria ,sanguinalis,Commelinidae,Poaceae,1,O,OP RP,G,GA,6,O,1,1,NA,1,0,NA,Tall Crabgrass,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+Diphasiastrum,digitatum,Pteridophyte,Lycopodiacea,0,F,F,S,SDE,27,C,1,1,NA,1,1,Lycopodium digitatum; Lycopodium complanatum,Ground Cedar,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+Diphasiastrum,tristachyum,Pteridophyte,Lycopodiacea,0,F,F,S,SDE,4,U,1,1,NA,1,1,Lycopodium tristachyum,Ground Cedar,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Dirca,palustris,Rosidae,Thymelaeaceae,0,F,FR,S,S,1,U,1,1,NA,1,1,NA,Leatherwood,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Drosera,intermedia,Rosidae,Droseraceae,0,W,WB,H,HL,3,LC,1,1,NA,1,1,NA,Spatulate-leaved Sundew,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Drosera,rotundifolia,Rosidae,Droseraceae,0,W,WB,H,HL,6,O,1,1,NA,1,1,NA,Round-leaved Sundew,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0
+Dryopteris,carthusiana,Pteridophyte,Aspleniaceae,0,W,WF,F,FE,8,O,1,1,NA,1,1,Dryopteris spinulosa,Spinulose wood Fern,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1
+Dryopteris,cristata,Pteridophyte,Aspleniaceae,0,W,WF,F,FE,11,F,1,1,NA,1,1,NA,Crested Wood Fern,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,1
+Dryopteris,intermedia,Pteridophyte,Aspleniaceae,0,F,F,F,FE,31,C,1,1,NA,1,1,Dryopteris spinulosa var. intermedia,Evergreen Woodfern,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1
+Dryopteris,marginalis,Pteridophyte,Aspleniaceae,0,F,F,F,FE,21,C,1,1,NA,1,1,NA,Marginal Wood Fern,1,1,0,1,1,1,0,1,1,1,0,1,0,0,0,1,1,1,1,1,0,1,0,1,0,1,1,1,0,1,0,0,1
+Dryopteris,x boottii,Pteridophyte,Aspleniaceae,0,W,WF,F,FE,1,U,0,1,hybrid,1,1,NA,Boott's Fern,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dryopteris,x triploidea,Pteridophyte,Aspleniaceae,0, , ,F,FE,0,M,0,1,hybrid,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dryopteris,x uliginosa,Pteridophyte,Aspleniaceae,0,NA,NA,F,FE,1,U,0,1,hybrid,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dulichium,arundinaceum,Commelinidae,Cyperaceae,0,W,WO WP,G,GL,9,O,1,1,NA,1,1,NA,Three-way Sedge,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1
+Echinochloa,crusgalli,Commelinidae,Poaceae,1,O,OD,G,HA,1,U,1,1,NA,1,1,NA,Billion-dollar Grass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Echinochloa,muricata,Commelinidae,Poaceae,0,O,OD,G,HA,1,U,1,1,NA,1,0,NA,Billion-dollar Grass,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elaeagnus,umbellata,Rosidae,Elaegnaceae,1,O,OE,S,S,3,U,1,1,NA,1,0,NA,Autumn Olive,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Eleocharis,acicularis,Commelinidae,Cyperaceae,0,W,WP,G,GL,2,U,1,1,NA,1,1,NA,Needle Spikerush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Eleocharis,flavescens var olivacea,Commelinidae,Cyperaceae,0,W,WP,G,GA,2,LC,1,1,NA,1,1,Eleocharis olivacea,Olive Spikerush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Eleocharis,obtusa,Commelinidae,Cyperaceae,0,W,WO,G,GA,2,U,1,1,NA,1,1,NA,Blunt Spike-rush,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Eleocharis,palustris,Commelinidae,Cyperaceae,0,W,WP,G,GL,2,U,1,1,NA,1,1,E. smallii,Marsh Spikerush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Eleocharis,tenuis,Commelinidae,Cyperaceae,0,W,WO,G,GL,3,U,1,1,NA,1,0,E. elliptica,Slender Spikerush,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Elymus,hysterix,Commelinidae,Poaceae,0,F,FR,G,GL,1,U,1,1,NA,1,0,Hysterix patula,Bottle-brush Grass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elytrigia,repens,Commelinidae,Poaceae,1,O,OD RP,G,GL,5,U,1,1,NA,1,1,Agropyron repens,Quackgrass,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Epifagus,virginiana,Asteridae,Orobanchaceae,0,F,F,H,HL,4,U,1,1,NA,1,1,NA,Beech Drops,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Epigaea,repens,Dilleniidae,Ericaceae,0,F,F,S,SDE,16,F,1,1,NA,1,1,NA,Trailing Arbutus,0,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,0,0,1
+Epilobium,angustifolium,Rosidae,Onagraceae,0,O,OD,H,HL,0,M,1,1,NA,0,1,NA,Fireweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epilobium,ciliatum,Rosidae,Onagraceae,0,O W,WO RW,H,HL,3,U,1,1,NA,1,1,E. adenocaulon,Ciliate Willowherb,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Epilobium,coloratum,Rosidae,Onagraceae,0,O W,WO RW,H,HL,1,U,1,1,NA,1,1,NA,Colored Willowherb,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epilobium,leptophyllum,Rosidae,Onagraceae,0,W,WB,H,HL,3,U,1,1,NA,1,1,NA,Bog Willowherb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+Epilobium,palustre ?,Rosidae,Onagraceae,0,NA,NA,NA,NA,0,M,0,0,NV,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epilobium,sp.,Rosidae,Onagraceae,0,NA,NA,H,HL,3,U,0,1,GEN,1,1,NA,Willowherb,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Epipactis,helleborine,Liliidae,Orchidaceae,1,F,F,H,HL,5,U,1,1,NA,1,0,NA,Helleborine,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Equisetum,arvense,Pteridophyte,Equisetaceae,0,O,OD,H,HS,5,U,1,1,NA,1,1,NA,Common Horsetail,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Equisetum,sylvaticum,Pteridophyte,Equisetaceae,0,W,WF,H,HS,2,U,1,1,NA,1,1,NA,Wood Horsetail,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Eragrostis,pectinacea,Commelinidae,Poaceae,0,O,OD,G,GA,1,U,1,1,NA,1,0,NA,Love Grass,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eragrostis,pilosa,Commelinidae,Poaceae,1,O,OD RP,G,GA,1,U,1,1,NA,1,0,NA,India Love Grass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erechtites,hieraciifolia,Asteridae,Asteraceae,0,O,OD RW,H,HA,8,O,1,1,NA,1,1,NA,Fireweed,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+Erigeron,annuus,Asteridae,Asteraceae,0,O,OP RW,H,HL,5,U,1,1,NA,1,1,NA,Daisy Fleabane,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Erigeron,pulchellus,Asteridae,Asteraceae,0,F,F,H,HL,0,M,1,1,NA,0,1,NA,Robin's Plantain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erigeron,strigosus,Asteridae,Asteraceae,0,O,OP,H,HL,4,U,1,1,NA,1,1,NA,Daisy Fleabane,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+Eriophorum,virginicum,Commelinidae,Cyperaceae,0,W,WB,G,GL,6,O,1,1,NA,1,1,NA,Cotton-grass,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
+Erysimum,cheiranthoides,Dilleniidae,Brassicaceae,1,O,OD,H,HA,3,U,1,1,NA,1,1,NA,Wormseed Mustard,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erythronium,americanum,Liliidae,Liliaceae,0,F,FR,H,HS,2,U,1,1,NA,1,1,NA,Troutlily,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Euonymus,alatus,Rosidae,Celastraceae,1,O F,RW F,S,S,3,U,1,1,NA,1,0,NA,Winged Eyonymus,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Euonymus,fortunei,Rosidae,Celastraceae,1,NA,NA,NA,NA,1,U,0,1,NDN,1,0,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eupatorium,maculatum,Asteridae,Asteraceae,0,W,WO,H,HL,12,F,1,1,NA,1,1,NA,Common Joe-pye Weed,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0
+Eupatorium,perfoliatum,Asteridae,Asteraceae,0,W,WO,H,HL,13,F,1,1,NA,1,1,NA,White Boneset,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1,0,1
+Eupatorium,purpureum,Asteridae,Asteraceae,0,F,FR,H,HL,0,M,0,1,NC,0,1,NA,Purple Joe-pye Weed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eupatorium,rugosum,Asteridae,Asteraceae,0,F,FR,H,HL,6,O,1,1,NA,1,1,NA,White Boneset,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Euphorbia,cyparissias,Rosidae,Euphorbiaceae,1,O,RP,H,HS,1,U,1,1,NA,1,0,NA,Cypress Spurge,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Euthamia,graminifolia,Asteridae,Asteraceae,0,O,OP,H,HL,12,F,1,1,NA,1,1,Soldago g.,Grass-leaved Goldenrod,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+Fagopyrum,esculentum,Caryophyllidae,Polygonaceae,1,O,OD OC,H,HA,1,U,1,1,NA,1,0,NA,Buckwheat,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fagus,grandifolia,Hamameliidae,Fagaceae,0,F,F,T,T,31,C,1,1,NA,1,1,NA,American Beech,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Fagus,sylvatica,Hamameliidae,Fagaceae,1,F,F,T,T,1,U,1,1,NA,1,0,NA,European Beech,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Fallopia,cilinode,Caryophyllidae,Polygonaceae,0,F,F,H,HL,10,O,1,1,NA,1,1,NA,Fringed Bindweed,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1
+Fallopia,convolvulus,Caryophyllidae,Polygonaceae,1,O,OE,H,HA,0,M,1,1,NA,0,1,NA,Black Bindweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fallopia,japonica,Caryophyllidae,Polygonaceae,1,O,RP,H,HL,2,U,1,1,NA,1,0,NA,Japanese Knotweed,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Fallopia,scandens,Caryophyllidae,Polygonaceae,0,F W,FO WS,H,HL,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Festuca,arundinacea,Commelinidae,Poaceae,1,O,RP,G,GL,1,U,1,0,NA,1,0,NA,Sheep Fescue,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Festuca,filiformis,Commelinidae,Poaceae,1,O,RP,G,GL,2,U,1,1,NA,1,1,Festuca capillata,Hair Fescue,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Festuca,ovina,Commelinidae,Poaceae,1,O,RP,G,GL,0,M,1,1,NA,0,1,NA,Sheep Fescue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Festuca,pratensis,Commelinidae,Poaceae,1,O,RP,G,GL,0,M,1,1,NA,0,1,F. elatior,Meadow Fescue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Festuca,rubra,Commelinidae,Poaceae,0,O,OB OD RP,G,GL,7,O,1,1,NA,1,1,NA,Red Fescue,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+Festuca,sp.,Commelinidae,Poaceae,1,O,RP,G,GL,3,U,1,1,NA,1,1,NA,NA,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Festuca,trachyphylla,Commelinidae,Poaceae,1,O,OP,G,GL,1,U,1,1,NA,1,1,F. ovina var. duriuscula,Hard Fescue,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fragaria,virginiana,Rosidae,Rosaceae,0,O,OP RW,H,HS,19,F,1,1,NA,1,1,NA,Common Strawberry,1,1,1,0,0,1,0,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,0,1
+Fraxinus,americana,Asteridae,Oleaceae,0,F,F,T,T,27,C,1,1,NA,1,1,NA,American Ash,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+Fraxinus,nigra,Asteridae,Oleaceae,0,W,WS,T,T,4,U,1,1,NA,1,1,NA,Black Ash,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Galeopsis,tetrahit,Asteridae,Lamiaceae,1,O,OD,H,HL,4,U,1,1,NA,1,1,NA,Common Hemp-nettle,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Galinsoga,quadriradiata,Asteridae,Asteraceae,1,O,OD,H,HL,3,U,1,1,NA,1,1,NA,Quickweed,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Galium,asprellum,Asteridae,Rubiaceae,0,W,WS,H,HS,5,U,1,1,NA,1,1,NA,Rough Bedstraw,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+Galium,circaezans,Asteridae,Rubiaceae,0,F,FR,H,HS,1,U,1,1,NA,1,1,NA,Wild Liquorice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Galium,lanceolatum,Asteridae,Rubiaceae,0,F,FR,H,HS,3,U,1,1,NA,1,0,NA,Wild Liquorice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Galium,mollugo,Asteridae,Rubiaceae,1,O,OP,H,HS,4,U,1,1,NA,1,1,NA,European Bedstraw,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Galium,palustre,Asteridae,Rubiaceae,0,W,WO,H,HL,4,U,1,1,NA,1,1,NA,Marsh Bedstraw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0
+Galium,tinctorium,Asteridae,Rubiaceae,0,W,WO WB,H,HL,11,F,1,1,NA,1,1,NA,Dyer's Bedstraw,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,1
+Galium,trifidum,Asteridae,Rubiaceae,0,W,WB,H,HL,2,U,0,0,NC,1,0,NA,Small Marsh Bedstraw,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Galium,triflorum,Asteridae,Rubiaceae,0,F,F,H,HS,11,F,1,1,NA,1,1,NA,Three-flowered Bedstraw,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1
+Gaultheria,hispidula,Dilleniidae,Ericaceae,0,W,WB,S,SDE,5,U,1,1,NA,1,1,Chiogenes h.,Creeping Snowberry,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1
+Gaultheria,procumbens,Dilleniidae,Ericaceae,0,F,F,S,SDE,29,C,1,1,NA,1,1,NA,Wintergreen,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1
+Gaylussacia,baccata,Dilleniidae,Ericaceae,0,W,WF WB,S,S,8,O,1,1,NA,1,1,NA,Black Huckleberry,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,0,1
+Gaylussacia,frondosa,Dilleniidae,Ericaceae,0,W ,WF,S,S,2,U,1,1,NA,1,1,NA,Dangleberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Gentiana,clausa,Asteridae,Gentianaceae,0,W,WS,H,HL,0,M,1,1,NA,0,1,NA,Common Bottle Gentian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gentiana,linearis,Asteridae,Gentianaceae,0,W,WO WP,H,HL,1,U,1,1,NA,1,1,NA,Narrow-leaved Gentian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gentianopsis,crinita,Asteridae,Gentianaceae,0,W,WO,H,HL,0,M,1,1,NA,0,1,Gentiana crinita,Fringed gentian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geranium,maculatum,Rosidae,Geraniaceae,0,F,F,H,HS,2,U,1,1,NA,1,1,NA,Wild Geranium,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Geranium,robertianum,Rosidae,Geraniaceae,0,F,FR,H,HS,1,U,1,1,NA,1,1,NA,Herb Robert,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geum,aleppicum,Rosidae,Rosaceae,0,F,FR,H,HL,2,U,1,1,NA,1,0,NA,Yellow Avens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Geum,canadense,Rosidae,Rosaceae,0,O F,RW FR,H,HL,4,U,1,1,NA,1,1,NA,White Avens,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Geum,laciniatum,Rosidae,Rosaceae,0,W,WF,H,HL,0,M,1,1,NA,0,1,NA,Rough Avens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geum,rivale,Rosidae,Rosaceae,0,W,WF,H,HS,1,U,1,1,NA,1,1,NA,Water Avens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Glechoma,hederacea,Asteridae,Lamiaceae,1,O,OG,H,HS,3,U,1,1,NA,1,1,NA,Ground-ivy,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Glyceria,borealis,Commelinidae,Poaceae,0,W,WP,G,GL,0,M,1,1,NA,0,1,NA,Northern Mannagrass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glyceria,canadensis,Commelinidae,Poaceae,0,W,WO,G,GL,10,O,1,1,NA,1,1,NA,Canadian Manna Grass,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0
+Glyceria,melicaria,Commelinidae,Poaceae,0,W,WF,G,GL,8,O,1,1,NA,1,1,NA,Slender Mannagrass,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+Glyceria,obtusa,Commelinidae,Poaceae,0,W,WP,G,GL,0,M,0,0,NC,0,1,NA,Blunt Mannagrass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glyceria,striata,Commelinidae,Poaceae,0,W,WO,G,GL,14,F,1,1,NA,1,1,NA,Fowl Mannagrass,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,0
+Gnaphalium,obtusifolium,Asteridae,Asteraceae,0,O,RP RW,H,HL,5,U,1,1,NA,1,1,NA,Fragrant Everlasting,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+Gnaphalium,uliginosum,Asteridae,Asteraceae,0,O,RP RW,H,HL,4,U,1,1,NA,1,1,NA,Low Cudweed,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goodyera,pubescens,Liliidae,Orchidaceae,0,F,F,H,HE,4,U,1,1,NA,1,1,NA,Downy Rattlesnake-Plantain,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+Goodyera,tesselata,Liliidae,Orchidaceae,0,F,FC,H,HE,10,O,1,1,NA,1,1,NA,Rattlesnake Plantain,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0
+Gratiola,aurea,Asteridae,Scrophulariaceae,0,W,WP,H,HL,0,M,0,1,PROV,0,1,NA,Golden Pert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gymnocarpium,dryopteris,Pteridophyte,Aspleniaceae,0,F,FR,F,F,2,U,1,1,NA,1,1,NA,Oak Fern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Hamamelis,virginiana,Hamameliidae,Hamamelidaceae,0,F,F,T,T,27,C,1,1,NA,1,1,NA,Witch Hazel,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1
+Helianthemum,bicknellii,Dilleniidae,Cistaceae,0,O,OB,H,HL,2,U,1,1,NA,1,0,NA,Bicknell's Rockrose,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Helianthemum,canadense,Dilleniidae,Cistaceae,0,O,OB,H,HL,1,U,1,1,NA,1,1,NA,Canadian Frostweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Helianthus,tuberosus,Asteridae,Asteraceae,1,O,OT,H,HL,1,U,1,1,NA,1,0,NA,Jerusalem Artichoke,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemerocallis,fulva,Liliidae,Liliaceae,1,O,OH RP,H,HL,4,U,1,1,NA,1,1,NA,Orange Daylilly,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Heracleum,maximum,Rosidae,Apiaceae,0,O,OE,H,HL,0,M,1,1,NA,0,1,NA,Cow-parsnip,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hesperis,matronalis,Dilleniidae,Brassicaceae,1,W,WS,H,HL,1,U,1,1,NA,1,0,NA,Dame's-rocket,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heteranthera,dubia,Alismatidae,Zosteraceae,0,W,WP,A,AS,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Hieracium,aurantiacum,Asteridae,Asteraceae,1,O,OP RW,H,HL,6,O,1,1,NA,1,1,NA,Orange Hawkweed,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+Hieracium,caespitosum,Asteridae,Asteraceae,1,O,OP RW,H,HL,6,O,1,1,NA,1,1,H. pratense,King-Devil,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Hieracium,paniculatum,Asteridae,Asteraceae,0,F,F,H,HL,8,O,1,1,NA,1,1,NA,Panicled Hawkweed,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Hieracium,piloselloides,Asteridae,Asteraceae,1,F,OP,H,HL,1,U,1,1,NA,1,0,NA,King-Devil,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hieracium,scabrum,Asteridae,Asteraceae,0,O F,OB FO,H,HL,7,O,1,1,NA,1,1,NA,Rough Hawkweed,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1
+Hieracium,sp.,Asteridae,Asteraceae,1,NA,NA,NA,NA,10,O,0,1,GEN,1,1,NA,NA,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0
+Hieracium,umbellatum,Asteridae,Asteraceae,0,O F,OB FO,H,HL,0,M,1,1,NA,0,1,H. canadense; kalmii,Canada Hawkweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hieracium,venosum,Asteridae,Asteraceae,0,F,FR,H,HL,1,U,1,1,NA,1,1,NA,Veined Hawkweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Holcus,lanatus,Commelinidae,Poaceae,1,O,RP,G,GL,1,U,1,1,NA,1,0,NA,Velvet Grass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Houstonia,caerulea,Asteridae,Rubiaceae,0,W,WS,H,HS,16,F,1,1,NA,1,1,Hedyotis c.,Bluets,1,1,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,1,0,1,0,0,1
+Humulus,lupulus,Asteridae,Cannabaceae,1,O,OE,H,HL,0,M,1,1,NA,0,1,NA,Hops,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Huperzia,lucidula,Pteridophyte,Lycopodiaceae,0,F,F,S,SDE,20,F,1,1,NA,1,1,Lycopodium lucidulum,Shining Clubmoss,0,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1,0,0,1
+Hydrangea,arborescens,Rosidae,Hydrangeaceae,1,O,OD,S,S,1,U,1,1,NA,1,0,NA,Wild Hydrangea,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hydrocotyle,americana,Rosidae,Apiaceae,0,W,WF,H,HL,19,F,1,1,NA,1,1,NA,Pennywort,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1
+Hypericum,boreale,Dilleniidae,Clusiaceae,0,W,WP WB,H,HL,3,U,1,1,NA,1,1,NA,Northern St. John's-wort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Hypericum,canadense,Dilleniidae,Clusiaceae,0,W,WO,H,HL,7,O,1,1,NA,1,1,NA,Canadian St. John's-wort,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0
+Hypericum,ellipticum,Dilleniidae,Clusiaceae,0,W,WP,H,HL,6,O,1,1,NA,1,1,NA,Elliptic St. John's-wort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0
+Hypericum,gentianoides,Dilleniidae,Clusiaceae,0,O,OB RP,H,HA,0,M,1,1,NA,0,1,NA,Pineweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hypericum,mutilum,Dilleniidae,Clusiaceae,0,W O,WO OD,H,HL,4,U,1,1,NA,1,1,NA,Dwarf St. John's-wort,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Hypericum,perforatum,Dilleniidae,Clusiaceae,1,O,OD RW RP,H,HL,11,F,1,1,NA,1,1,NA,Common St. John's-wort,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,0
+Hypericum,punctatum,Dilleniidae,Clusiaceae,0,F,F,H,HL,1,U,1,1,NA,1,1,NA,Spotted St. John's-wort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Hypochaeris,radicata,Asteridae,Asteraceae,1,O,OD RP,H,HL,1,U,1,1,NA,1,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ilex,laevigata,Rosidae,Aquifoliaceae,0,W,WS,S,S,3,U,1,1,NA,1,1,NA,Smooth Winterberry,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Ilex,verticillata,Rosidae,Aquifoliaceae,0,W,WS WP,S,S,27,C,1,1,NA,1,1,NA,Winterberry Holly,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1
+Impatiens,capensis,Rosidae,Balsaminaceae,0,W,WF WO,H,HA,22,C,1,1,NA,1,1,I. biflora,Orange Jewelweed,0,1,1,0,0,1,0,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,1,1,1,0,1,1,1,0,1,1
+Iris,pseudacorus,Liliidae,Iridaceae,1,W,WP,H,HL,2,U,1,1,NA,1,0,NA,Yellow Flag Iris,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iris,sp.,Liliidae,Iridaceae,0,W,WO WP, ,NA,13,F,0,1,GEN,1,1,NA,NA,0,0,1,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0
+Iris,versicolor,Liliidae,Iridaceae,0,W,WO WP,H,HL,4,U,1,1,NA,1,1,NA,Blueflag Iris,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+Juglans,cinerea,Hamameliidae,Juglandaceae,0,F,FR,T,T,3,U,1,1,NA,1,1,NA,Butternut,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Juglans,nigra,Hamameliidae,Juglandaceae,1,O,OG,T,T,1,U,0,1,NDN,1,1,NA,Black Walnut,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juncus,acuminatus,Commelinidae,Juncaceae,0,W,WO,G,GL,1,U,1,1,NA,1,1,NA,Acuminate Rush,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juncus,articulatus,Commelinidae,Juncaceae,0,W,WO,G,GL,2,U,1,1,NA,1,0,NA,Articulate Rush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Juncus,brevicaudatus,Commelinidae,Juncaceae,0,W,WB WO,G,GL,4,U,1,1,NA,1,1,NA,Short-tailed Rush,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Juncus,bufonius,Commelinidae,Juncaceae,0,O,OD RW,G,GA,2,U,1,1,NA,1,1,NA,Toad Rush,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juncus,canadensis,Commelinidae,Juncaceae,0,W,WP,G,GL,5,U,1,1,NA,1,1,NA,Canadian Rush,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0
+Juncus,effusus,Commelinidae,Juncaceae,0,W O,WO OP,G,GE,12,F,1,1,NA,1,1,NA,Common Rush,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,1
+Juncus,greenei,Commelinidae,Juncaceae,0,O,OB,G,GL,0,M,1,1,NA,0,1,NA,Green's Rush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juncus,marginatus,Commelinidae,Juncaceae,0,W,WO,G,GL,3,U,1,1,NA,1,1,NA,Marginate Rush,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Juncus,pelocarpus,Commelinidae,Juncaceae,0,W,WP,G,GL,2,U,1,1,NA,1,0,NA,Rush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Juncus,tenuis,Commelinidae,Juncaceae,0,O,OP RW,G,GL,21,C,1,1,NA,1,1,NA,Path Rush,0,1,1,1,0,0,0,1,1,1,1,1,0,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1
+Juniperus,communis,Gymnosperm,Cupressaceae,0,O F,OP F,S,SE,12,F,1,1,NA,1,1,NA,Common Rush,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,1,1
+Juniperus,virginiana,Gymnosperm,Cupressaceae,0,F,F,T,TE,1,U,1,1,NA,1,1,NA,REd Cedar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Kalmia,angustifolia,Dilleniidae,Ericaceae,0,F W,F WB,S,SE,22,C,1,1,NA,1,1,NA,Sheep Laurel,1,1,1,0,0,1,1,1,0,0,1,1,1,1,0,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1,1,0,1
+Kalmia,latifolia,Dilleniidae,Ericaceae,0,F,F,S,SE,15,F,1,1,NA,1,1,NA,Mountain Laurel,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0
+Kalmia,polifolia,Dilleniidae,Ericaceae,0,W,WB,S,SE,2,U,1,1,NA,1,1,NA,Bog Laurel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Lactuca,biennis,Asteridae,Asteraceae,0,O,OD,H,HL,4,U,1,1,NA,1,1,NA,Blue lettuce,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Lactuca,canadensis,Asteridae,Asteraceae,0,O,OD,H,HL,5,U,1,1,NA,1,1,NA,Wild Yellow Lettuce,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Lactuca,hirsuta,Asteridae,Asteraceae,0,O,OD,H,HL,0,M,1,1,NA,0,1,NA,Hairy lettuce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lactuca,sp.,Asteridae,Asteraceae,0,NA,NA,H,NA,11,F,0,1,GEN,1,1,NA,NA,0,1,1,0,0,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1
+Laportea,canadensis,Hamameliidae,Urticaceae,0,W,WS,H,HL,3,U,1,1,NA,1,1,NA,Wood Nettle,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Larix,laricina,Gymnosperm,Pinaceae,0,W,WB,T,T,3,U,1,1,NA,1,1,NA,Tamarack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+Larix,sp.,Gymnosperm,Pinaceae,1,P,P,T,T,1,U,1,0,NA,1,0,NA,European Larch,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Lechea,intermedia,Dilleniidae,Cistaceae,0,O,OB RP,H,HL,8,O,1,1,NA,1,1,NA,Common Pinweed,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+Lechea,mucronata,Dilleniidae,Cistaceae,0,O,RP,H,HL,1,U,1,1,NA,1,0,NA,Hairy Pinweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ledum,groenlandicum,Dilleniidae,Ericaceae,0,W,WB,S,SE,3,U,1,1,NA,1,1,NA,Labrador Tea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+Leersia,oryzoides,Commelinidae,Poaceae,0,W,WO WP,G,GA,8,O,1,1,NA,1,1,NA,Rice Cutgrass,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1
+Leontodon,autumnalis,Asteridae,Asteraceae,1,O,OP,H,HL,1,U,1,1,NA,1,0,NA,Autumn Dandelion,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leonurus,cardiaca,Asteridae,Lamiaceae,1,O,OP,H,HL,1,U,1,1,NA,1,1,NA,Motherwort,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lepidium,densiflorum,Dilleniidae,Brassicaceae,1,O,OD,H,HA,2,U,1,1,NA,1,1,NA,Densely-flowered Peppergrass,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lepidium ,virginicum,Dilleniidae,Brassicaceae,0,O,RP,H,HA,1,U,1,1,NA,1,0,NA,Virginia Poor-man's Pepper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lespedeza,capitata,Rosidae,Fabaceae,0,O,RW,H,HL,2,U,1,1,NA,1,1,NA,Large-headed Bush-clover,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ligustrum,vulgare,Asteridae,Oleaceae,1,O,OE,S,S,1,U,1,1,NA,1,1,NA,Common Privet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Lilium,canadense,Liliidae,Liliaceae,0,W,WS,H,HL,1,U,1,1,NA,1,1,NA,Canada lily,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lilium,philadelphicum,Liliidae,Liliaceae,0,F,F,H,HL,1,U,1,1,NA,1,1,NA,Wood Lily,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Linaria,vulgaris,Asteridae,Scrophulariaceae,1,O,OG,H,HL,1,U,1,1,NA,1,0,NA,Yellow Toadflax,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lindera,benzoin,Magnoliidae,Lauraceae,0,W,WF,S,S,9,O,1,1,NA,1,1,NA,Spicebush,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1
+Lindernia,dubia,Asteridae,Scrophulariaceae,0,W,WP,H,HA,1,U,1,1,NA,1,1,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Linnaea,borealis,Asteridae,Caprifoliaceae,0,W,WF,S,SDE,0,M,1,1,NA,0,1,NA,Twin-flower,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liriodendron,tulipifera,Magnoliidae,Lauraceae,0,F,F,T,T,2,U,1,1,NA,1,0,NA,Tulip Tree,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Lobelia,cardinalis,Asteridae,Campanulaceae,0,W,WS,H,HL,7,O,1,1,NA,1,1,NA,Cardinal Flower,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+Lobelia,inflata,Asteridae,Campanulaceae,0,O,RW,H,HL,12,F,1,1,NA,1,1,NA,Indian-tobacco,0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,1
+Lobelia,spicata,Asteridae,Campanulaceae,0,O,RW,H,HL,1,U,1,1,NA,1,1,NA,Pale-spike Lobelia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Lolium,perenne,Commelinidae,Poaceae,1,O,OD,G,GL,1,U,1,1,NA,1,0,NA,Italian Ryegrass,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lonicera,canadensis,Asteridae,Caprifoliaceae,0,F,F,S,S,17,F,1,1,NA,1,1,NA,Canada Honeysuckle,0,0,1,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,0,0,1
+Lonicera,dioica,Asteridae,Caprifoliaceae,0,F,FR,S,S,1,U,1,1,NA,1,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Lonicera,morrowii,Asteridae,Caprifoliaceae,1,O F,OD F,S,S,15,F,1,1,NA,1,0,NA,European Bush Honeysuckle,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,1
+Lonicera,villosa,Asteridae,Caprifoliaceae,0,W,WF,S,S,1,U,1,1,NA,1,1,L. caerulea,Northern Fly Honeysuckle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ludwigia,palustris,Rosidae,Onagraceae,0,W,WS,H,HL,5,U,1,1,NA,1,1,NA,Mud Loosestrife,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Lupinus,sp.,Rosidae,Fabaceae,1,O,OP,H,HL,1,U,1,0,NA,1,0,NA,Cultivated lupine,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luzula,multiflora,Commelinidae,Juncaceae,0,F,RW,G,S,24,C,1,1,NA,1,1,L. campestris,Common Woodrush,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1
+Lychnis,flos-cuculi,Caryophyllidae,Caryophyllaceae,1,O,OP,H,HL,1,U,1,1,NA,1,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lycopodiella,inundata,Pteridophyte,Lycopodiaceae,0,W,WP,S,SDE,4,U,1,1,NA,1,1,Lycopodium inundatum,Bog Clubmoss,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Lycopodium,annotinum,Pteridophyte,Lycopodiaceae,0,F,F,S,SDE,21,C,1,1,NA,1,1,NA,Bristly Clubmoss,1,0,1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+Lycopodium,clavatum,Pteridophyte,Lycopodiaceae,0,F,F,S,SDE,20,F,1,1,NA,1,1,NA,Staghorn Clubmoss,1,0,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,1
+Lycopodium,lagopus,Pteridophyte,Lycopodiaceae,0,F,F,S,SDE,0,M,0,0,TAX,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lycopodium,obscurum,Pteridophyte,Lycopodiaceae,0,F,F,S,SDE,31,C,1,1,NA,1,1,L. dendroideum; L. hickeyi,Tree Clubmoss,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Lycopus,americanus,Asteridae,Lamiaceae,0,W,WO,H,HL,2,U,1,1,NA,1,1,NA,American Water Hore-hound,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Lycopus,uniflorus,Asteridae,Lamiaceae,0,W,WO WB WF,H,HL,12,F,1,1,NA,1,1,NA,Common Water-horehound,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,0,1
+Lycopus,virginicus,Asteridae,Lamiaceae,0,W,WO,H,HL,0,M,0,0,NC,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lyonia,ligustrina,Dilleniidae,Ericaceae,0,F,F,S,S,16,F,1,1,NA,1,1,NA,Maleberry,1,0,1,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1
+Lysimachia,ciliata,Asteridae,Primulaceae,0,W,WF,H,HL,3,U,1,1,NA,1,1,NA,Fringed Loosestrife,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Lysimachia,nummularia,Asteridae,Primulaceae,1,W,WS,H,HL,3,U,1,1,NA,1,1,NA,Moneywort,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Lysimachia,quadrifolia,Asteridae,Primulaceae,0,F,F,H,HL,19,F,1,1,NA,1,1,NA,Whorled Loosestrife,0,0,1,1,0,1,0,1,1,0,1,0,1,1,1,1,0,0,0,1,0,0,1,1,1,1,1,1,0,0,1,0,1
+Lysimachia,terrestris,Asteridae,Primulaceae,0,W,WO WB WP,H,HL,16,F,1,1,NA,1,1,NA,Swamp Candles,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0
+Lysimachia,vulgaris,Asteridae,Primulaceae,1,O,OG,H,HL,1,U,1,1,NA,1,0,NA,Garden Loosestrife (II),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lythrum,salicaria,Rosidae,Lythraceae,1,W,WO WP,H,HL,3,U,1,1,NA,1,0,NA,Purple Loosestrife,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Maianthemum,canadense,Liliidae,Liliaceae,0,F W,F WF WB,H,HS,32,C,1,1,NA,1,1,NA,Canada Mayflower,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Maianthemum,racemosum,Liliidae,Liliaceae,0,F,F,H,HS,29,C,1,1,NA,1,1,Smilacina racemosa,Common False Solomons-seal,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1
+Maianthemum,trifolium,Liliidae,Liliaceae,0,W,WB,H,HS,2,U,1,1,NA,1,1,Smilacina trifolia,Bog False Solomons-Seal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Malaxis,unifolia,Liliidae,Orchidaceae,0,F,FC,H,HS,0,M,1,1,NA,0,1,NA,Green Adder's-mouth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Malus,pumila,Rosidae,Rosaceae,1,F O,F OP,T,T,6,O,1,1,NA,1,1,Pyrus malus; Malus sylvestris,Apple,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1
+Malus,sieboldii,Rosidae,Rosaceae,1,F O,F OP,T,T,3,U,1,1,NA,1,0,Pyrus malus; Malus sylvestris,Apple,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Malva,cf. moschata,Rosidae,Malvaceae,1,O,OP,H,HL,1,U,1,0,NA,1,0,NA,Musk Mallow,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Malva,neglecta,Rosidae,Malvaceae,1,O,OG,H,HA,1,U,1,1,NA,1,1,NA,Cheeses,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matricaria,matricarioides,Asteridae,Asteraceae,1,O,OD,H,HL,3,U,1,1,NA,1,1,NA,Pinapple-weed,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matteuccia,struthiopteris,Pteridophyte,Dryopteridaceae,0,W,WS,F,F,2,U,1,1,NA,1,1,NA,Ostrich Fern,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Medeola,virginiana,Liliidae,Liliaceae,0,F,F,H,HS,30,C,1,1,NA,1,1,NA,Wild Cucumber,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Medicago,lupulina,Rosidae,Fabaceae,1,O,OG,H,HA,1,U,1,1,NA,1,0,NA,Black Medick,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Medicago,sativa,Rosidae,Fabaceae,1,O,OP,H,HL,1,U,1,1,NA,1,0,NA,Alfalfa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Melampyrum,lineare,Asteridae,Scrophulariaceae,0,F,F,H,HL,18,F,1,1,NA,1,1,NA,Cow-wheat,1,1,1,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+Melilotus,alba,Rosidae,Fabaceae,1,O,OD,H,HL,1,U,1,1,NA,1,1,NA,White Sweet Clover,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Melilotus,officinalis,Rosidae,Fabaceae,1,O,OP,H,HL,2,U,1,1,NA,1,0,NA,Yellow Sweet Clover,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mentha,arvensis,Asteridae,Lamiaceae,0,W,WS,H,HL,3,U,1,1,NA,1,1,NA,Field Mint,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mentha,x spicata,Asteridae,Lamiaceae,1,W,WO,H,HL,2,U,1,1,NA,1,0,NA,Spearmint,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Menyanthes,trifoliata,Asteridae,Menyanthaceae,0,W,WB,H,HS,1,U,1,1,NA,1,1,NA,Bog-bean,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mimulus,ringens,Asteridae,Scrophulariaceae,0,W,WO WS WP,H,HL,7,O,1,1,NA,1,1,NA,Common Monkey-flower,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+Mitchella,repens,Asteridae,Rubiaceae,0,F,F,S,SDE,30,C,1,1,NA,1,1,NA,Partridge Berry,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Mollugo,verticillata,Caryophyllidae,Molluginaceae,1,O,OG RP,H,HL,2,U,1,1,NA,1,1,NA,Carpetweed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moneses,uniflora,Dilleniidae,Pyrolaceae,0,F,F,H,HS,0,M,1,1,NA,0,1,NA,One-flowered Pyrola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monotropa,hypopithys,Dilleniidae,Monotropaceae,0,F,F,H,HL,14,F,1,1,NA,1,1,NA,Pinesap,0,0,1,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1
+Monotropa,uniflora,Dilleniidae,Monotropaceae,0,F,F,H,HL,29,C,1,1,NA,1,1,NA,Indian pipes,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Muhlenbergia,frondosa,Commelinidae,Poaceae,0,O,RW,G,GL,4,U,1,1,NA,1,0,NA,Leafy Muhlenbergia,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Muhlenbergia,tenuiflora,Commelinidae,Poaceae,0,F,FR,G,GL,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Muhlenbergia,uniflora,Commelinidae,Poaceae,0,O,WP,G,GL,2,U,1,1,NA,1,1,NA,Muhlenbergia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Myosotis,scorpioides,Asteridae,Boraginaceae,1,W,WS,H,HL,1,U,1,1,NA,1,1,NA,Common Forget-me-not,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myrica,gale,Hamameliidae,Myricaceae,0,W,WP,S,S,3,U,1,1,NA,1,1,NA,Sweet Gale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Myriophyllum,humile,Rosidae,Haloragaceae,0,W,WP,A,AS,0,M,1,1,NA,0,1,NA,Small Water-milfoil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Najas,flexilis,Alismatidae,Naiadaceae,0,W,WP,A,AS,2,U,1,1,NA,1,0,NA,Common Naiad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Nemopanthus,mucronatus,Rosidae,Aquifoliaceae,0,W,WF,S,S,12,F,1,1,NA,1,1,NA,Mountain Holly,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1
+Nuphar,variegata,Magnoliidae,Nymphaeaceae,0,W,WP,A,AF,6,O,1,1,NA,1,1,NA,Yellow Water Lilly,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1
+Nuttallanthus,canadensis,Asteridae,Scrophulariaceae,0,O,OD RP,H,HL,3,U,1,1,NA,1,1,NA,Blue Toadflax,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nymphaea,odorata,Magnoliidae,Nymphaeaceae,0,W,WP,A,AF,5,U,1,1,NA,1,1,NA,White Waterlily,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+Nyssa,sylvatica,Rosidae,Cornaceae,0,W,WF,T,T,5,U,1,1,NA,1,1,NA,Black Gum,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Oenothera,biennis,Rosidae,Onagraceae,0,O,OD RP,H,HL,4,U,1,1,NA,1,1,NA,Common Evening Primrose,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oenothera,parviflora,Rosidae,Onagraceae,0,O,OD,H,HL,0,M,1,1,NA,0,1,O. muricata,Small-flowered Evening-primrose,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oenothera,perennis,Rosidae,Onagraceae,0,O,OP OD,H,HL,2,U,1,1,NA,1,1,NA,Sundrops,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Onoclea,sensibilis,Pteridophyte,Onocleaceae,0,W,WO WF,F,F,29,C,1,1,NA,1,1,NA,Sensitive Fern,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Orobanche,uniflora,Asteridae,Orobanchaceae,0,F O,F OP,H,HL,0,M,1,1,NA,0,1,NA,One-flowered Cancer-root,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orthillia,secunda,Dilleniidae,Pyrolaceae,0,F,F,H,HE,0,M,1,1,NA,0,1,NA,One-sided Shinleaf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oryzopsis,asperifolia,Commelinidae,Poaceae,0,F,F,G,GE,11,F,1,1,NA,1,1,NA,Rough-leaved Ricegrass,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1,1,1,1,1,0,0,1
+Oryzopsis,racemosa,Commelinidae,Poaceae,0,F,FR,G,GL,3,U,1,1,NA,1,0,NA,Broad-leaved Ricegrass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Osmunda,cinnamomea,Pteridophyte,Osmundaceae,0,W,WF WO,F,F,31,C,1,1,NA,1,1,NA,Cinnamon Fern,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Osmunda,claytoniana,Pteridophyte,Osmundaceae,0,F,F,F,F,28,C,1,1,NA,1,1,NA,Interrupted Fern,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Osmunda,regalis,Pteridophyte,Osmundaceae,0,W,WS WF,F,F,16,F,1,1,NA,1,1,NA,Royal Fern,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,1,1,0,0,1
+Ostrya,virginiana,Hamameliidae,Betulaceae,0,F,F,T,T,11,F,1,1,NA,1,1,NA,Hop Hornbeam,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1
+Oxalis,dillenii,Rosidae,Oxalidaceae,0,O,OG RW,H,HL,1,U,1,1,NA,1,0,O. stricta,Yellow Wood-sorrel,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oxalis,montana,Rosidae,Oxalidaceae,0,W,WS,H,HS,8,O,1,1,NA,1,1,NA,Mountain Sorrel,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1
+Oxalis,stricta,Rosidae,Oxalidaceae,0,O,OG RW,H,HL,20,F,1,1,NA,1,1,O europea,Common Yellow Wood Sorrel,0,0,0,1,0,0,1,1,1,1,0,0,1,1,1,0,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1
+Pachysandra,sp.,NA,Buxaceae,1,O,OG,S,SDE,1,U,0,1,NDN,1,0,NA,Pachysandra,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Panax,quinquefolius,Rosidae,Araliaceae,0,F,FR,H,HL,1,U,1,1,NA,1,0,NA,Ginseng,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Panax,trifolius,Rosidae,Araliaceae,0,F,F,H,HS,6,O,1,1,NA,1,1,P. trifolium,Dwarf Ginseng,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1
+Panicum,capillare,Commelinidae,Poaceae,0,O,OP,G,GA,1,U,1,1,NA,1,1,NA,Witch Grass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Panicum,dichotomiflorum,Commelinidae,Poaceae,0,O,RP,G,GA,2,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Panicum,rigidulum,Commelinidae,Poaceae,0,O,OP,G,GL,1,U,1,1,NA,1,1,P. agrostoides,Stiff Panic Grass,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parthenocissus,quinquefolia,Rosidae,Vitaceae,0,F O,F OE,V,V,23,C,1,1,NA,1,1,NA,Woodbine,1,0,1,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,0,1,1
+Pedicularis canadensis,canadensis,Asteridae,Scrophulariaceae,0,F,FR,H,HS,0,M,1,1,NA,0,1,NA,Lousewort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peltandra,virginica,Alismatidae,Araceae,0,W,WP,H,HL,1,U,1,1,NA,1,1,NA,Arrow Arum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Persicaria,arifolia,Caryophyllidae,Polygonaceae,0,W,WP,H,HA,2,U,1,1,NA,1,0,NA,Halberd-leaved Tearthumb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Persicaria,careyi,Caryophyllidae,Polygonaceae,0,W,WP,H,HA,0,M,1,1,NA,0,1,NA,Carey's Smartweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Persicaria,hydropiper,Caryophyllidae,Polygonaceae,0,O,PR,H,HA,1,U,1,1,NA,1,0,NA,Water-pepper,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Persicaria,hydropiperoides,Caryophyllidae,Polygonaceae,0,O,PR,H,HL,3,U,1,1,NA,1,0,NA,Smartweed,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Persicaria,lapathifolia,Caryophyllidae,Polygonaceae,0,O,OP,H,HA,1,U,1,1,NA,1,0,NA,Dock-leaved Smartweed,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Persicaria,longiseta,Caryophyllidae,Polygonaceae,1,O,RP,H,HA,4,U,1,1,NA,1,0,P. longisetum,Cespitose Smartweed,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Persicaria,maculosa,Caryophyllidae,Polygonaceae,1,O,OG RP,H,HA,4,U,1,1,NA,1,1,NA,Lady's Thumb,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Persicaria,pensylvanica,Caryophyllidae,Polygonaceae,0,W,WP,H,HA,1,U,1,1,NA,1,0,NA,Pennsylvania Smartweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Persicaria,punctata,Caryophyllidae,Polygonaceae,0,W,WP,H,HA,4,U,1,1,NA,1,1,P. acre,Waterpepper,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Persicaria,sagittata,Caryophyllidae,Polygonaceae,0,W,WO,H,HA,13,F,1,1,NA,1,1,NA,Tearthumb,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,0,1,1,0,1,0,1,1
+Phalaris,arundinacea,Commelinidae,Poaceae,0,O,OD,G,GL,3,U,1,1,NA,1,0,NA,Reed Canary Grass,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phegopteris,connectilis,Pteridophyte,Thelypteridaceae,0,F,F,F,F,9,O,1,1,NA,1,1,Dryopteris phegopteris; Thelypt,Narrow beach Fern,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,1
+Phellodendron,sp.,Rosidae,Rutaceae,1,O,RW,T,T,1,U,1,1,NA,1,0,NA,Amur Cork Tree,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Philadelphus,coronarius,Rosidae,Hydrangeaceae,1,O,RP,S,S,1,U,1,0,NA,1,1,NA,Mock-orange,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phleum,pratense,Commelinidae,Poaceae,1,O,OP,G,GL,7,O,1,1,NA,1,1,NA,Timothy,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+Phlox,paniculata,Asteridae,Polemoniaceae,1,O,OG,H,HL,1,U,1,1,NA,1,0,NA,Sweet William?,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phragmites,australis,Commelinidae,Poaceae,0,O W,OD WO,G,GL,3,U,1,1,NA,1,0,P. communis,Phragmites,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+Phytolacca,americana,Caryophyllidae,Phytolaccaceae,0,O,OD,H,HA,1,U,1,1,NA,1,1,NA,Pokeweed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Picea,abies,Gymnosperm,Pinaceae,1,F,F,T,TE,4,U,1,1,NA,1,1,NA,Norway Spruce,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Picea,glauca,Gymnosperm,Pinaceae,1,F,F,T,TE,6,O,1,1,NA,1,0,NA,White Spruce,1,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Picea,mariana,Gymnosperm,Pinaceae,0,W,WB,T,TE,6,O,1,1,NA,1,1,NA,Black Spruce,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0
+Picea,pungens,Gymnosperm,Pinaceae,1,F,F,T,TE,2,U,0,1,NDN,1,0,NA,Blue Spruce,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Picea,rubens,Gymnosperm,Pinaceae,0,F,F,T,TE,8,O,1,1,NA,1,1,NA,Red Spruce,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1
+Pilea,pumila,Hamameliidae,Urticaceae,0,W,WS,H,HA,1,U,1,1,NA,1,1,NA,Clearweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pinus,resinosa,Gymnosperm,Pinaceae,0,F,F,T,TE,10,O,1,1,NA,1,1,NA,Red Pine,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+Pinus,rigida,Gymnosperm,Pinaceae,0,F,F,T,TE,1,U,1,1,NA,1,1,NA,Pitch Pine,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pinus,strobus,Gymnosperm,Pinaceae,0,F,F,T,TE,33,C,1,1,NA,1,1,NA,White Pine,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Pinus,sylvestris,Gymnosperm,Pinaceae,1,F,F,T,T,2,U,1,1,NA,1,1,NA,Scots pine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plantago,lanceolata,Asteridae,Plantaginaceae,1,O,OP OG,H,HL,2,U,1,1,NA,1,0,NA,English Plantain,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plantago,major,Asteridae,Plantaginaceae,1,O ,OP WR OG,H,HL,16,F,1,1,NA,1,1,NA,Broad-leaved Plantain,1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,1,0,0,1
+Plantago,rugelii,Asteridae,Plantaginaceae,0,O,OG RP,H,HL,3,U,1,1,NA,1,1,NA,Rugell's Plantain,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Platanthera,clavellata,Liliidae,Orchidaceae,0,W,WB,H,HL,3,U,1,1,NA,1,1,Habenaria c.,Club-spur Orchid,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Platanthera,hookeri,Liliidae,Orchidaceae,0,W,WO WF,H,HL,0,M,1,1,NA,0,1,Habenaria p.,Purple-frinded Orchid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Platanthera,hyperborea,Liliidae,Orchidaceae,0,F,F,H,HL,1,U,1,1,NA,1,0,Habenaria h.,Northern Green Orchid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Platanthera,lacera,Liliidae,Orchidaceae,0,O ,OP,H,HL,1,U,1,1,NA,1,1,Habenaria l.,Ragged-fringed Orchid,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Platanthera,psycodes,Liliidae,Orchidaceae,0,W,WO WF,H,HL,0,M,1,1,NA,0,1,Habenaria p.,Purple-frinded Orchid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Platanus,occidentalis,Hammelidae,Platanceae,0,F,F,T,T,0,M,1,0,NA,0,1,NA,Sycamore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Poa,annua,Commelinidae,Poaceae,1,O,OG,G,GA,5,U,1,1,NA,1,0,NA,Annual Bluegrass,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Poa,compressa,Commelinidae,Poaceae,1,O, RW,G,GL,2,U,1,1,NA,1,1,NA,Canadian Bluegrass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Poa,nemoralis,Commelinidae,Poaceae,1,O,OE,G,GL,2,U,1,1,NA,1,0,NA,Woodland Bluegrass,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Poa,palustris,Commelinidae,Poaceae,0,W,WO WP,G,GL,3,U,1,1,NA,1,1,NA,Marsh Bluegrass,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Poa,pratensis,Commelinidae,Poaceae,1,O ,OP PR OG,G,GL,7,O,1,1,NA,1,1,NA,Common Bluegrass,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Pogonia,ophioglossoides,Liliidae,Orchidaceae,0,W,WB,H,HL,2,U,1,1,NA,1,1,NA,Rose Pogonia,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Polygala,paucifolia,Rosidae,Polygalaceae,0,F,F,H,HS,5,U,1,1,NA,1,1,NA,Gay Wings,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Polygala,polygama,Rosidae,Polygalaceae,0,O,OD,H,HL,1,U,1,1,NA,1,1,NA,Bitter Milkwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Polygala,sanguinea,Rosidae,Polygalaceae,0,O,RW,H,HL,4,U,1,1,NA,1,1,NA,Rose Milkwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+Polygonatum,pubescens,Liliidae,Liliaceae,0,F,F,H,HS,23,C,1,1,NA,1,1,NA,Small Solomon's-seal,0,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,0,0,0,0,1
+Polygonella,articulata,Caryophyllidae,Polygonaceae,0,O,OB RP,H,HL,2,U,1,1,NA,1,1,NA,Jointweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Polygonum,aviculare,Caryophyllidae,Polygonaceae,1,O,OG PR,H,HA,4,U,1,1,NA,1,0,NA,Knotweed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+Polypodium,virginianum,Pteridophyte,Polypodiaceae,0,F,F,F,FE,18,F,1,1,NA,1,1,NA,Virginia Polypody,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0,0,1
+Polystichum,acrostichoides,Pteridophyte,Aspleniaceae,0,F,F,F,FE,23,C,1,1,NA,1,1,NA,Christmas Fern,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1
+Pontederia,cordata,Liliidae,Pontederiaceae,0,W,WP,H,HL,2,U,1,1,NA,1,1,NA,Pickerel Weed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Populus,deltoides,Dilleniidae,Salicaceae,0,F,F,T,T,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Populus,grandidentata,Dilleniidae,Salicaceae,0,F,F,T,T,5,U,1,1,NA,1,1,NA,Big-toothed Aspen,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Populus,tremuloides,Dilleniidae,Salicaceae,0,F,F,T,T,10,O,1,1,NA,1,1,NA,Quaking Aspen,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0
+Populus ,x jackii,Dilleniidae,Salicaceae,1,P,P,T,T,0,M,0,0,NDN,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Portulaca,oleracea,Caryophyllidae,Portulaceae,1,O,OD,H,HA,1,U,1,1,NA,1,0,NA,Common purslane,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potamogeton,bicupulatus,Alismatidae,Potamogetonaceae,0,W,WP,A,AF,1,U,1,1,NA,1,1,P. diversifolius; P. capillaceu,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Potamogeton,epihydrus,Alismatidae,Potamogetonaceae,0,W,WP,A,AF,5,U,1,1,NA,1,1,NA,Ribbonleaf Pondweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1
+Potamogeton,natans,Alismatidae,Potamogetonaceae,0,W,WP,A,AF,1,U,1,1,NA,1,0,NA,Floating Pondweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Potamogeton,pulcher,Alismatidae,Potamogetonaceae,0,W,WP,A,AF,1,U,1,1,NA,1,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Potamogeton,pusillus var. tenuissimus,Alismatidae,Potamogetonaceae,0,W,WP,A,AS,2,U,1,1,NA,1,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Potentilla,argentea,Rosidae,Rosaceae,1,O,OD,H,HL,1,U,1,1,NA,1,1,NA,Silvery Cinquefoil,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potentilla,canadensis,Rosidae,Rosaceae,0,O,OB,H,HS,0,M,1,1,NA,0,1,NA,Canada Cinquefoil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potentilla,norvegica,Rosidae,Rosaceae,0,O,OD,H,HL,3,U,1,1,NA,1,1,NA,Norway Cinquefoil,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Potentilla,recta,Rosidae,Rosaceae,1,O,OP RW,H,HL,4,U,1,1,NA,1,1,NA,Rough Cinquefoil,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Potentilla,simplex,Rosidae,Rosaceae,0,F O,F RW OP,H,HS,29,C,1,1,NA,1,1,NA,Common Cinquefoil,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1
+Prenanthes,altissima,Asteridae,Asteraceae,0,O W,RW WS,H,HL,3,U,1,1,NA,1,1,NA,Common Rattlesnake Root,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+Prenanthes,sp.,Asteridae,Asteraceae,0,MF,NA, ,NA,28,C,0,1,GEN,1,1,NA,NA,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+Prenanthes,trifoliolata,Asteridae,Asteraceae,0,O,RW,H,HL,7,O,1,1,NA,1,1,NA,Gall-of-the-earth,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1
+Proserpinaca,palustris,Rosidae,Haloragaceae,0,W,WP,H,HL,0,M,1,1,NA,0,1,NA,Mermaid Weed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prunella,vulgaris,Asteridae,Lamiaceae,0,O,RW OG,H,HL,13,F,1,1,NA,1,1,NA,Self-heal,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,1,1,0,0,0
+Prunus,avium,Rosidae,Rosaceae,1,O,RW,T,T,2,U,1,0,NA,1,1,NA,Sweet Cherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Prunus,nigra,Rosidae,Rosaceae,0,O,OE,S,S,0,M,0,1,NOT DEF HF,0,1,NA,Canada Plum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prunus,pensylvanica,Rosidae,Rosaceae,0,O,OE,T,T,9,O,1,1,NA,1,1,NA,Pin Cherry,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,0,1,0
+Prunus,persica,Rosidae,Rosaceae,1,O,OE,T,T,1,U,1,1,NA,1,1,NA,Peach,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prunus,serotina,Rosidae,Rosaceae,0,F,F,T,T,30,C,1,1,NA,1,1,NA,Black Cherry,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1
+Prunus,sp.,Rosidae,Rosaceae,0,NA,NA, ,NA,3,U,0,1,GEN,1,1,NA,NA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Prunus,virginiana,Rosidae,Rosaceae,0,O,OE RW,S,S,9,O,1,1,NA,1,1,NA,Choke Cherry,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+Pteridium,aquilinum,Pteridophyte,Dennstaedtiaceae,0,F,F PR OB,F,F,31,C,1,1,NA,1,1,NA,Bracken,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Pushkinia,libanotica,NA,NA,0,NA,NA,NA,NA,1,U,0,0,NDN,1,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pyrola,americana,Dilleniidae,Pyrolaceae,0,F,F,H,HE,6,O,1,1,NA,1,1,NA,Round-leaved Pyrola,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1
+Pyrola,chlorantha,Dilleniidae,Pyrolaceae,0,F,FR,H,HE,3,U,1,1,NA,1,1,NA,Green Shinleaf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Pyrola,elliptica,Dilleniidae,Pyrolaceae,0,F,F,H,HE,9,O,1,1,NA,1,1,NA,Common Shinleaf,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1
+Pyrola,sp.,Dilleniidae,Pyrolaceae,0,NA,NA,FH,NA,5,U,0,1,GEN,1,1,NA,NA,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Pyrus,communis,Rosidae,Rosaceae,1,NA,NA,T,T,0,M,0,1,NDN,1,1,NA,Pear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pyrus,x soulardii,Rosidae,Rosaceae,1,P,P,T,T,0,M,0,1,NDN,0,1,NA,Soulard Crab,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quercus,alba,Hamameliidae,Fagaceae,0,F,F,T,T,27,C,1,1,NA,1,1,NA,Whit Oak,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+Quercus,coccinea,Hamameliidae,Fagaceae,0,F,F,T,T,3,U,1,1,NA,1,1,NA,Scarlet Oak,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quercus,prinus,Hamameliidae,Fagaceae,0,F,F,T,T,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Quercus,rubra,Hamameliidae,Fagaceae,0,F,F,T,T,32,C,1,1,NA,1,1,NA,Northern Red Oak,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Quercus,velutina,Hamameliidae,Fagaceae,0,F,F,T,T,7,O,1,1,NA,1,1,NA,Black Oak,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+Ranunculus,abortivus,Magnoliidae,Ranunculaceae,0,F,FR,H,HS,1,U,1,1,NA,1,0,NA,Dwarf Buttercup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ranunculus,acris,Magnoliidae,Ranunculaceae,1,O,OP RW,H,HL,4,U,1,1,NA,1,1,NA,Common Buttercup,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Ranunculus,aquatilis,Magnoliidae,Ranunculaceae,0,W,WP,A,AS,0,M,1,1,NA,0,1,NA,White Water Crowfoot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ranunculus,bulbosus,Magnoliidae,Ranunculaceae,1,O,OG,H,HL,2,U,1,1,NA,1,1,NA,Bulbous Buttercup,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ranunculus,recurvatus,Magnoliidae,Ranunculaceae,0,F,FR,H,HS,6,O,1,1,NA,1,1,NA,Hooked Buttercup,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Ranunculus,repens,Magnoliidae,Ranunculaceae,1,O,OD,H,HS,1,U,1,1,NA,1,1,NA,Creeping Buttercup,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhamnus,cathartica,Rosidae,Rhamnaceae,1,F,F,T,T,3,U,1,1,NA,1,1,NA,Common Buckthorn,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Rhamnus,frangula,Rosidae,Rhamnaceae,1,F,F,T,T,6,O,1,1,NA,1,0,NA,European Buckthorn,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1
+Rhododendron,canadense,Dilleniidae,Ericaceae,0,W,WB,S,S,5,U,1,1,NA,1,1,NA,Rhodora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0
+Rhododendron,maximum,Dilleniidae,Ericaceae,1,O,RW,S,SE,0,M,1,1,NA,0,1,NA,Great Laurel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhododendron,prinophyllum,Dilleniidae,Ericaceae,0,F,F,S,S,9,O,1,1,NA,1,1,R. roseum,Common Pinkster Flower,0,1,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Rhododendron,sp.,Dilleniidae,Ericaceae,0,MF,NA, ,NA,19,F,0,1,GEN,1,1,NA,NA,1,1,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0,1
+Rhododendron,viscosum,Dilleniidae,Ericaceae,0,W,WF,S,S,1,U,1,0,NA,0,1,NA,White Azalea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhus,copallina,Rosidae,Anacardiaceae,0,O,OB,S,S,1,U,1,1,NA,1,1,R. copallina,Dwarf Sumac,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhus,glabra,Rosidae,Anacardiaceae,0,O,OE,T,T,0,M,1,1,NA,0,1,NA,Smooth Sumac,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhus,hirta,Rosidae,Anacardiaceae,0,O,OE,T,T,11,F,1,1,NA,1,1,R. typhina,Staghorn Sumac,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+Rhynchospora,alba,Commelinidae,Cyperaceae,0,W,WB,G,GL,3,U,1,1,NA,1,1,NA,White Beakrush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+Rhynchospora,capitellata,Commelinidae,Cyperaceae,0,W,WO WP,G,GL,3,U,1,1,NA,1,1,NA,Beak-rush,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Rhynchospora,fusca,Commelinidae,Cyperaceae,0,W,WB WP,G,GL,3,U,1,1,NA,1,0,NA,Dark Beakrush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+Ribes,glandulosum,Rosidae,Grossulariaceae,0,W,WF,S,S,3,U,1,1,NA,1,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ribes,hirtellum,Rosidae,Grossulariaceae,0,F,F,S,S,0,M,1,1,NA,0,1,NA,Northern Gooseberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ribes,rubrum,Rosidae,Grossulariaceae,1,F,F,S,S,2,U,1,1,NA,1,1,NA,Garden Red Currant,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Robinia,pseudoacacia,Rosidae,Fabaceae,1,O,OE,T,T,3,U,1,1,NA,1,1,NA,Black Locust,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Rosa,carolina,Rosidae,Rosaceae,0,F,FR,S,S,1,U,1,1,NA,1,1,NA,Carolina Rose,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Rosa,multiflora,Rosidae,Rosaceae,1,F,F,S,S,3,U,1,1,NA,1,0,NA,Multiflora Rose,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+Rosa,palustris,Rosidae,Rosaceae,0,W,WP,S,S,1,U,1,1,NA,1,1,NA,Swamp Rose,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Rubus,allegheniensis,Rosidae,Rosaceae,0,O,OE,S,S,14,F,1,1,NA,1,1,NA,Common Blackberry,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,1
+Rubus,canadensis,Rosidae,Rosaceae,0,O,RW,S,S,2,U,1,1,NA,1,1,NA,Canada Blackberry,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Rubus,flagellaris,Rosidae,Rosaceae,0,O,OB OD,S,S,4,U,1,1,NA,1,1,NA,Prickly Dewberry,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Rubus,hispidus,Rosidae,Rosaceae,0,W,WF,S,SDE,29,C,1,1,NA,1,1,NA,Bristly Dewberry,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1
+Rubus,idaeus,Rosidae,Rosaceae,0,O,OE RW,S,S,13,F,1,1,NA,1,1,NA,Red Raspberry,0,0,1,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,1
+Rubus,occidentalis,Rosidae,Rosaceae,0,O,OE,S,S,2,U,1,1,NA,1,1,NA,Black Raspberry,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Rubus,odoratus,Rosidae,Rosaceae,0,O,RW,S,S,3,U,1,1,NA,1,1,NA,Purple-flowering Raspberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+Rubus,pubescens,Rosidae,Rosaceae,0,W,WF,H,HS,21,C,1,1,NA,1,1,NA,Dwarf Blackberry,0,1,0,0,1,1,1,1,0,1,0,1,1,1,1,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1
+Rubus,setosus,Rosidae,Rosaceae,0,W,WP,S,S,0,M,1,1,NA,0,1,NA,Bristly Blackberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rudbeckia,hirta,Asteridae,Asteraceae,1,O,OP OG RP,H,HL,4,U,1,1,NA,1,1,NA,Black-eyed Susan,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Rumex,acetosella,Caryophyllidae,Polygonaceae,1,O,OD RP,H,HS,10,O,1,1,NA,1,1,NA,Sheep Sorrel,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,1,0
+Rumex,crispus,Caryophyllidae,Polygonaceae,1,O,OP,H,HL,1,U,1,1,NA,1,1,NA,Curly Dock,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rumex,longifolius,Caryophyllidae,Polygonaceae,1,O,OG,H,HL,2,U,1,1,NA,1,0,NA,Longleaved Dock,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rumex,obtusifolius,Caryophyllidae,Polygonaceae,1,O,OD,H,HL,3,U,1,1,NA,1,0,NA,Blunt-leaved Dock,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Sagina,procumbens,Caryophyllidae,Caryophyllaceae,0,O,OG RP,H,HA,4,U,1,1,NA,1,0,NA,Perennial Pearlwort,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sagittaria,latifolia,Alismatidae,Alismataceae,0,W,WP,H,HL,9,O,1,1,NA,1,1,NA,Broad-leaved Arrowhead,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0
+Salix,bebbiana,Dilleniidae,Salicaceae,0,O,OD,S,S,2,U,1,1,NA,1,1,NA,Bebb's Willow,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salix,discolor,Dilleniidae,Salicaceae,0,W,WO,S,S,5,U,1,1,NA,1,1,NA,Common Pussy Willow,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1
+Salix,eriocephala,Dilleniidae,Salicaceae,0,W,WO,S,S,1,U,1,1,NA,1,1,S. cordata; S. rigida,Wooly-headed Willow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Salix,humilis,Dilleniidae,Salicaceae,0,O,OE,S,S,0,M,1,0,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salix,lucida,Dilleniidae,Salicaceae,0,O W,OE WO,S,S,1,U,1,1,NA,1,1,NA,Shining Willow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salix,sericea,Dilleniidae,Salicaceae,0,O,OP OW,S,S,1,U,1,1,NA,1,1,NA,Silky Willow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sambucus,canadensis,Asteridae,Caprifoliaceae,0,W,WO WS,S,S,7,O,1,1,NA,1,1,NA,White Elderberry,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+Sambucus,racemosa,Asteridae,Caprifoliaceae,0,F,FR,S,S,8,O,1,1,NA,1,1,S. pubens,Red Elderberry,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Sanguinaria,canadensis,Magnoliidae,Papaveraceae,0,F,FR,H,HS,2,U,1,1,NA,1,1,NA,Bloodroot,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Sanicula,marilandica,Rosidae,Apiaceae,0,F,FR,H,HL,0,M,1,1,NA,0,1,NA,Maryland Snakeroot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saponaria,officinalis,Caryophyllidae,Caryophyllaceae,1,O,OD RP,H,HL,1,U,1,1,NA,1,1,NA,Bouncing Bet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sarracenia,purpurea,Rosidae,Sarraceniaceae,0,W,WB,H,HL,3,U,1,1,NA,1,1,NA,Pitcher Plant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+Sassafras,albidum,Magnoliidae,Lauraceae,0,F,FR,T,T,3,U,1,1,NA,1,1,NA,Sassafras,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+Saxifraga,pensylvanica,Rosidae,Saxifragaceae,0,W,WF,H,HE,2,U,1,1,NA,1,1,NA,Sawmp Saxifrage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Saxifraga,virginiensis,Rosidae,Saxifragaceae,0,F,FR,H,HE,2,U,1,1,NA,1,1,NA,Early Saxifrage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Schizachne,purpurascens,Commelinidae,Cyperaceae,0,F,FR,G,GS,1,U,1,1,NA,1,0,NA,False Melic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Schizachyrium,scoparium,Commelinidae,Poaceae,0,O,OP RP OB,G,GL,7,O,1,1,NA,1,1,Andropogon scoparius,Little Bluestem,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+Schoenoplectus,purshianus,Commelinidae,Cyperaceae,0,W,WP,H,HL,0,M,1,1,NA,0,1,Scirpus p.,Pursh's Bulrush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Schoenoplectus,subterminalis,Commelinidae,Cyperaceae,0,W,WP,A,AS,2,U,1,1,NA,1,1,Scirpus subterminalis,Bug-on-a-Stick Bulrush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Schoenoplectus,tabernaemontani,Commelinidae,Cyperaceae,0,W,WO WP,G,GL,4,U,1,1,NA,1,1,Scirpus validus; Scirpus tabern,Softstem Bulrush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+Scilla,sibirica,Liliidae,Liliaceae,1,NA,NA,NA,NA,1,U,0,0,NDN,1,0,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scirpus,atrocinctus,Commelinidae,Cyperaceae,0,W,WO WP,G,GL,4,U,1,1,NA,1,1,S. cyperinus var. brachypodus,Black-banded Woolgrass,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Scirpus,cyperinus complex,Commelinidae,Cyperaceae,0,W,WO WP,G,GL,13,F,0,1,GEN,1,1,NA,Woolgrass,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,1,1,0,0,1
+Scirpus,cyperinus sensu strictu,Commelinidae,Cyperaceae,0,W,WO WP,G,GL,5,U,1,1,NA,1,1,S. c. var. cyperinus,Woolgrass,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Scirpus,expansus,Commelinidae,Cyperaceae,0,W,WO,G,GL,1,U,1,1,NA,1,0,NA,Woodland Bulrush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scirpus,hattorianus,Commelinidae,Cyperaceae,0,W ,WO,G,GL,8,O,1,1,NA,1,1,S. atrovirens,Hattori Bulrush,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Scirpus,microcarpus,Commelinidae,Cyperaceae,0,W,WO,G,GL,2,U,1,1,NA,1,1,S. rubrotinctus,Small-fruited Bulrush,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Scirpus,pedicellatus,Commelinidae,Cyperaceae,0,W,WO WP,G,GL,5,U,0,1,TAX,1,1,S. cyperinus var. p.,Pedicelled Woolgrass,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+Scleranthus,annuus,Caryophyllidae,Caryophyllaceae,1,O,PR,H,HA,2,U,1,1,NA,1,1,NA,Knawell,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scutellaria,galericulata,Asteridae,Lamiaceae,0,W,WO WP,H,HL,2,U,1,1,NA,1,1,S. epilobifolia,Skullcap,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scutellaria,lateriflora,Asteridae,Lamiaceae,0,W,WO WP RW,H,HL,12,F,1,1,NA,1,1,NA,Mad-dog Skullcap,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,1,0,1,1,0,0,1
+Secale,cereale,Commelinidae,Cyperaceae,1,O,OD,G,GA,1,U,1,1,NA,1,0,NA,Rye,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sedum,telephium,Dilleniidae,Crassulaceae,1,O,RW,H,HL,8,O,1,1,NA,1,1,NA,Live-forever,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+Sedum,ternatum,Dilleniidae,Crassulaceae,0,NA,NA,NA,NA,1,U,0,1,NDN,1,0,NA,NA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Selaginella,apoda,Pteridophyte,Selaginellaceae,0,O,OG,H,HE,1,U,1,1,NA,1,1,NA,Meadow Spike-moss,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senecio,aureus,Asteridae,Asteraceae,0,W,WF,H,HS,4,U,1,1,NA,1,1,NA,Golden Ragwort,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Senecio,obovatus,Asteridae,Asteraceae,0,F,FR,H,HS,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senecio,vulgaris,Asteridae,Asteraceae,1,O,OD,H,HA,1,U,1,1,NA,1,0,NA,European Groundsel,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Setaria,faberi,Commelinidae,Poaceae,1,O,RP,G,GA,2,U,1,1,NA,1,0,NA,Nodding Foxtail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Setaria,pumila,Commelinidae,Poaceae,1,O,OD RP,G,GA,3,U,1,1,NA,1,0,S. lutescens; S. glauca,Yellow Foxtail Grass,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Setaria,viridis,Commelinidae,Poaceae,1,O,RP,G,GA,1,U,1,1,NA,1,0,NA,NA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silene,latifolia,Caryophyllidae,Caryophyllaceae,1,O,OD RP,H,HL,4,U,1,1,NA,1,1,NA,Common White Campion,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sisymbrium,altissimum,Dilleniidae,Brassicaceae,1,O,OD,H,HA,0,M,1,1,NA,0,1,NA,Tumble Mustard,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sisymbrium,officinale,Dilleniidae,Brassicaceae,1,O,OP,H,HA,1,U,1,1,NA,1,0,NA,Hedge-mustard,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sisyrinchium,atlanticum,Liliidae,Iridaceae,0,O,OP,H,HS,1,U,1,1,NA,1,1,NA,Blue-eyed Grass,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sisyrinchium,montanum,Liliidae,Iridaceae,0,O,OP,H,HS,1,U,1,1,NA,1,1,NA,Common Blue-eyed Grass,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sium,suave,Rosidae,Apiaceae,0,W,WO WS WP,H,HL,3,U,1,1,NA,1,1,NA,Water Parsnip,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Smilax,herbacea,Liliidae,Smilacaceae,0,W,WS WP,H,HL,10,O,1,1,NA,1,1,NA,Carrion Flower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,1,1,1,0,0,0,1,0,0,1
+Solanum,dulcamara,Asteridae,Solanaceae,1,O,OE RW,H,HL,5,U,1,1,NA,1,1,NA,Common Nightshade,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Solanum,nigrum,Asteridae,Solanaceae,0,O,OD ,H,HA,2,U,1,1,NA,1,0,NA,Black Nightshade,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Solidago,arguta,Asteridae,Asteraceae,0,F,F,H,HL,22,C,1,1,NA,1,1,NA,Cutleaved Goldenrod,1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0,1
+Solidago,bicolor,Asteridae,Asteraceae,0,F,F,H,HL,8,O,1,1,NA,1,1,NA,Silver-rod,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1
+Solidago,caesia,Asteridae,Asteraceae,0,F,F RW,H,HL,7,O,1,1,NA,1,1,NA,Blue-stemmed Goldenrod,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Solidago,canadensis,Asteridae,Asteraceae,0,F,F RW,H,HL,4,U,1,1,NA,1,1,NA,Canada Goldenrod,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+Solidago,flexicaulis,Asteridae,Asteraceae,0,F,FR,H,HL,2,U,1,1,NA,1,0,NA,Zig-zag Goldenrod,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Solidago,gigantea,Asteridae,Asteraceae,0,O,OP OD,H,HL,5,U,1,1,NA,1,1,NA,Giant Goldenrod,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Solidago,juncea,Asteridae,Asteraceae,0,O F,OP RW F,H,HL,13,F,1,1,NA,1,1,NA,Early Goldenrod,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0
+Solidago,nemoralis,Asteridae,Asteraceae,0,O,RW,H,HL,4,U,1,1,NA,1,1,NA,Gray Goldenrod,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+Solidago,odora,Asteridae,Asteraceae,0,W,WP,H,HL,0,M,1,1,NA,0,1,NA,Anise Goldenrrod,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Solidago,puberula,Asteridae,Asteraceae,0,O,OP RP RW,H,HL,8,O,1,1,NA,1,1,NA,Downy Goldenrod,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0
+Solidago,rugosa,Asteridae,Asteraceae,0,O W,OP RW WO WF,H,HL,31,C,1,1,NA,1,1,NA,Rough-stemmed Goldenrod,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+Solidago,uliginosa,Asteridae,Asteraceae,0,W,WO,H,HL,1,U,1,1,NA,1,1,S. purshii,Bog Goldenrod,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Sonchus,asper,Asteridae,Asteraceae,1,O ,RP,H,HL,2,U,1,1,NA,1,0,NA,Spiny Sow-thistle,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sorbaria,sorbifolia,Rosidae,Rosaceae,1,O,RP,S,S,1,U,1,1,NA,1,0,NA,False Spiraea,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sorbus,americana,Rosidae,Rosaceae,0,F,F,T,T,21,C,1,1,NA,1,1,NA,American Mountain Ash,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1,0,0,0,0,1,1,1,1,0,1,1,1,1,0,0,0,1
+Sparganium,americanum,Commelinidae,Sparganiaceae,0,W,WP,H,HL,8,O,1,1,NA,1,1,NA,American Bur-reed,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+Sparganium,angustifolium,Commelinidae,Sparganiaceae,0,W,WP,A,AF,0,M,1,0,NA,0,1,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sparganium,erectum,Commelinidae,Sparganiaceae,0,W,WP,H,HL,2,U,1,1,NA,1,1,S. chlorocarpum,Green-fruited Bulrush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Sparganium,sp.,Commelinidae,Sparganiaceae,0, ,NA, ,NA,7,O,0,1,GEN,1,1,NA,NA,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1
+Spergularia,rubra,Caryophyllidae,Caryophyllaceae,1,O ,PR,H,HA,5,U,1,1,NA,1,0,NA,Common Sand-spurry,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Sphenopholis,obtustata var. major,Commelinidae,Poaceae,0,F,FR,G,GL,1,U,1,1,NA,1,0,NA,Slender Wedgegrass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spiraea,alba,Rosidae,Rosaceae,0,W O,WO OE,S,S,26,C,1,1,NA,1,1,S. latifolia,Meadow-sweet,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+Spiraea,tomentosa,Rosidae,Rosaceae,0,W,WO,S,S,9,O,1,1,NA,1,1,NA,Steeplebush,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,1
+Spiranthes,cernua,Liliidae,Orchidaceae,0,W,WO,H,HL,1,U,1,1,NA,1,1,NA,Common Ladies-tresses,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Spiranthes,lacera,Liliidae,Orchidaceae,0,O,OB,H,HL,0,M,1,1,NA,0,1,S. gracilis,Slender Ladies-tresses,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sporobolus ,vaginiflorus,Commelinidae,Poaceae,0,O,RP,G,GL,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stellaria,borealis,Caryophyllidae,Caryophyllaceae,0,W,WS WO,H,HL,0,M,1,1,NA,0,1,NA,Northern Stichwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stellaria,graminea,Caryophyllidae,Caryophyllaceae,1,O,OP,H,HL,1,U,1,1,NA,1,1,NA,Grass-leaved Chickweed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stellaria,media,Caryophyllidae,Caryophyllaceae,1,O,OD,H,HS,4,U,1,1,NA,1,1,NA,Common Chickweed,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Streptopus,roseus,Liliidae,Liliaceae,0,F,FR,H,HS,1,U,1,1,NA,1,1,NA,Rose Twisted-stalk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Symphoricarpos,albus var. laevigatus,Asteridae,Caprifoliaceae,1,O,OP,S,S,1,U,1,1,NA,1,1,NA,Snowberry,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Symplocarpus,foetidus,Alismatidae,Araceae,0,W,WS,H,HS,4,U,1,1,NA,1,0,NA,Skunk Cabbage,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Syringa,vulgaris,Asteridae,Oleaceae,1, ,NA,S,S,1,U,0,1,NDN,1,0,NA,Lilac,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tanacetum,vulgare,Asteridae,Asteraceae,1,O,OD,H,HL,2,U,1,1,NA,1,1,NA,Tansy,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Taraxacum,officinale,Asteridae,Asteraceae,0,O,OG OP RW RP,H,HS,17,F,1,1,NA,1,1,NA,Common Dandelion,1,0,1,0,0,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,1,0,0,0,1
+Taxus,canadensis,Gymnosperm,Taxaceae,0,F,F,S,S,9,O,1,1,NA,1,1,NA,Canada Yew,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,1,0,0,0,0,1,0,0,0,1
+Thalictrum,pubescens,Magnoliidae,Ranunculaceae,0,W,WO WS,H,HL,10,O,1,1,NA,1,1,T. polygamum,Tall Meadow-rue,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1
+Thelypteris,noveboracensis,Pteridophyte,Aspleniaceae,0,F,F,F,F,31,C,1,1,NA,1,1,NA,New York Fern,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Thelypteris,palustris,Pteridophyte,Aspleniaceae,0,W,WO WP WF,F,F,13,F,1,1,NA,1,1,NA,Marsh Fern,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0,1,1
+Thelypteris,simulata,Pteridophyte,Aspleniaceae,0,W,WF,F,F,6,O,1,1,NA,1,1,NA,Massachusetts Fern,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1
+Thuja,occidentalis,Gymnosperm,Cupressaceae,0,F,F,T,T,2,U,1,1,NA,1,1,NA,Northern White Cedar,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thymus,pulegioides,Asteridae,Lamiaceae,1,O,OG,H,HE,1,U,1,1,NA,1,0,NA,Thyme,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiarella,cordifolia,Rosidae,Saxifragaceae,0,W,WF WS,H,HE,8,O,1,1,NA,1,1,NA,Foam Flower,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Tilia,americana,Rosidae,Tiliaceae,0,F,F,T,T,12,F,1,1,NA,1,1,NA,Basswood,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0,1,0,0,0,1,0,1,1
+Torreyochloa,pallida,Commelinidae,Poaceae,0,W,WO,G,GL,6,O,1,1,NA,1,0,Glyceria p.; Puccinellia p.,Pale Mannagrass,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+Toxicodendron,radicans,Rosidae,Anacardiaceae,0,F W,F WS,V,V,30,C,1,1,NA,1,1,Rhus r.,Poison Ivy,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+Toxicodendron,vernix,Rosidae,Anacardiaceae,0,W,WF,T,T,4,U,1,1,NA,1,1,Rhus v.,Poison Sumac,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Tragopogon,pratensis,Asteridae,Asteraceae,1,O,OP RP,H,HL,2,U,1,1,NA,1,0,NA,Yellow Goat's-beard,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Triadenum,fraseri,Dilleniidae,Clusiaceae,0,W,WO WP,H,HL,0,M,1,1,NA,0,1,T. virginicum var. f.; Hypericum virginicum var. f.,Marsh St. John's-Wort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Triadenum,sp.,Dilleniidae,Clusiaceae,0,NA,NA, ,NA,5,U,0,1,GEN,1,1,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Triadenum,virginicum,Dilleniidae,Clusiaceae,0,W,WO WP,H,HL,6,O,1,1,NA,1,1,Hypericum virginicum,Large Marsh St. John's-Wort,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0
+Trichostema,dichotomum,Asteridae,Lamiaceae,0,O,OD,H,HA,1,U,1,1,NA,1,1,NA,Blue Curls,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trientalis,borealis,Asteridae,Primulaceae,0,F W,F WF,H,HS,31,C,1,1,NA,1,1,NA,Starflower,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Trifolium,arvense,Rosidae,Fabaceae,1,O,OP RP,H,HL,2,U,1,1,NA,1,1,NA,Rabbit-foot Clover,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Trifolium,aureum,Rosidae,Fabaceae,1,O,OG,H,HL,3,U,1,1,NA,1,1,T. agrarium,Large Yellow Hop-clover,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Trifolium,campestre,Rosidae,Fabaceae,1,O,OD,H,HL,2,U,1,1,NA,1,0,T. procumbens,Yellow Hop-clover,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trifolium,pratense,Rosidae,Fabaceae,1,O,OP,H,HL,9,O,1,1,NA,1,0,NA,Red Clover,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0
+Trifolium,repens,Rosidae,Fabaceae,1,O,OG,H,HL,10,O,1,1,NA,1,1,NA,White Clover,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Trillium,erectum,Liliidae,Liliaceae,0,F,FR,H,HS,8,O,1,1,NA,1,1,NA,Red Trillium,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1
+Trillium,undulatum,Liliidae,Liliaceae,0,F,F,H,HS,18,F,1,1,NA,1,1,NA,Painted Trillium,0,1,0,1,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1
+Tsuga,canadensis,Gymnosperm,Pinaceae,0,F,F,T,T,32,C,1,1,NA,1,1,NA,Hemlock,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Typha,angustifolia,Commelinidae,Typhaceae,0,W,WO,H,HL,1,U,1,1,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Typha,latifolia,Commelinidae,Typhaceae,0,W,WO,H,HL,3,U,1,1,NA,1,1,NA,Broad Cattail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Ulmus,americana,Hamameliidae,Ulmaceae,0,O,OE,T,T,8,O,1,1,NA,1,1,NA,American Elm,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+Urtica,dioica,Hamameliidae,Urticaceae,0,F,F,H,HL,1,U,1,1,NA,1,1,U. gracilis,Common Stinging Nettle,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Utricularia,cornuta,Asteridae,Lentibulariaceae,0,W,WP WB,H,HL,1,U,1,1,NA,1,0,NA,Horned Bladderwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Utricularia,geminiscapa,Asteridae,Lentibulariaceae,0,W,WP,A,AS,6,O,1,1,NA,1,0,NA,Twinscape Bladderwort,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1
+Utricularia,gibba,Asteridae,Lentibulariaceae,0,W,WP,A,AS,1,U,1,1,NA,1,1,NA,Gibbous Bladderwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Utricularia,purpurea,Asteridae,Lentibulariaceae,0,W,WP,A,AS,3,U,1,1,NA,1,1,NA,Purple Bladderwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Utricularia,radiata,Asteridae,Lentibulariaceae,0,W,WP,A,AS,2,U,1,1,NA,1,0,NA,Inflated Bladderwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Utricularia,vulgaris,Asteridae,Lentibulariaceae,0,W,WP,A,AS,4,U,1,1,NA,1,1,NA,Common Bladderwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Uvularia,perfoliata,Liliidae,Liliaceae,0,F,FR,H,HS,1,U,1,1,NA,1,1,NA,Perfoliate Bellwort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Uvularia,sessilifolia,Liliidae,Liliaceae,0,F,F,H,HS,28,C,1,1,NA,1,1,NA,Bellwort,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Vaccinium,angustifolium,Dilleniidae,Ericaceae,0,F,F,S,S,32,C,1,1,NA,1,1,V. pennsylvanicum,Lowbush Blueberry,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Vaccinium,corymbosum,Dilleniidae,Ericaceae,0,F W,F WF,S,S,33,C,1,1,NA,1,1,NA,Highbush Blueberry,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Vaccinium,macrocarpon,Dilleniidae,Ericaceae,0,W,WB,S,SDE,4,U,1,1,NA,1,1,NA,Cranberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0
+Vaccinium,myrtilloides,Dilleniidae,Ericaceae,0,W,WF,S,S,2,U,1,1,NA,1,1,NA,Velvet-leaf Blueberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Vaccinium,oxycoccos,Dilleniidae,Ericaceae,0,W,WB,S,SDE,2,U,1,1,NA,1,1,NA,Dwarf Cranberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Vaccinium,pallidum,Dilleniidae,Ericaceae,0,F,F,S,S,27,C,1,1,NA,1,1,V. vacillans,Lowbush Blueberry,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Veratrum,viride,Liliidae,Liliaceae,0,W,WS,H,HS,13,F,1,1,NA,1,1,NA,White Hellebore,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1
+Verbascum,thapsus,Asteridae,Scrophulariaceae,1,O,OD,H,HL,4,U,1,1,NA,1,1,NA,Mullein,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Verbena,hastata,Asteridae,Verbenaceae,0,W,WP,H,HL,2,U,1,1,NA,1,1,NA,Blue Vervain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Veronica,arvensis,Asteridae,Scrophulariaceae,1,O,OG OD,H,HL,2,U,1,1,NA,1,0,NA,Field Speedwell,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veronica,officinalis,Asteridae,Scrophulariaceae,1,F,F,S,SDE,11,F,1,1,NA,1,1,NA,Common Speedwell,0,0,0,1,0,0,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+Veronica,scutellata,Asteridae,Scrophulariaceae,0,W,WP,H,HL,2,U,1,1,NA,1,1,NA,Marsh Speedwell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Veronica,serpyllifolia,Asteridae,Scrophulariaceae,1,O,OG OD,H,HS,3,U,1,1,NA,1,1,NA,Thyme-leaved Speedwell,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Viburnum,acerifolium,Asteridae,Caprifoliaceae,0,F,F,S,S,29,C,1,1,NA,1,1,NA,Maple-leaved Viburnum,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Viburnum,dentatum var. lucidulum,Asteridae,Caprifoliaceae,0,W,WP WO,S,S,26,C,1,1,NA,1,1,V. recognitum,Smooth arrowwood,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0
+Viburnum,lantanoides,Asteridae,Caprifoliaceae,0,F,F,S,S,26,C,1,1,NA,1,1,V. alnifolium,Hobblebush,1,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Viburnum,nudum,Asteridae,Caprifoliaceae,0,F W,F WF WB,S,S,26,C,1,1,NA,1,1,V. cassinoides,Wild Raisin,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+Viburnum,opulus,Asteridae,Caprifoliaceae,0,O,OE,S,S,0,M,1,1,NA,0,1,V. trilobum,Highbush Cranberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Viburnum,sp.,Asteridae,Caprifoliaceae,1,W,WS,S,S,1,U,1,0,NA,1,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vicia,cracca,Rosidae,Fabaceae,1,O,OG OD,H,HL,5,U,1,1,NA,1,1,NA,Cow-vetch,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Vicia,sativa,Rosidae,Fabaceae,1,O,OG,H,HA,1,U,1,1,NA,1,1,NA,Narrow-leaved Vetch,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vicia,tetrasperma,Rosidae,Fabaceae,1,O,OG,H,HA,3,U,1,1,NA,1,1,NA,Four-seeded Vetch,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vinca,minor,Asteridae,Apocynaceae,1,O,OH,S,SDE,3,U,0,1,NDN,1,0,NA,Common Periwinkle,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Viola,blanda,Dilleniidae,Violaceae,0,F O,FR RW,H,HS,5,U,1,1,NA,1,1,V. incognita,Sweet White Violet,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Viola,cf. mackloskeyi,Dilleniidae,Violaceae,0,W,WF WO,H,HS,4,U,1,1,NA,1,1,V. pallens,Mackloskey's Violet,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Viola,conspersa,Dilleniidae,Violaceae,0,O,RW,H,HS,3,U,1,1,NA,1,1,NA,Dog Violet,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Viola,cucullata,Dilleniidae,Violaceae,0,W,WO WS,H,HS,5,U,1,1,NA,1,1,NA,Marsh Blue Violet,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Viola,lanceolata,Dilleniidae,Violaceae,0,W,WP,H,HS,1,U,1,1,NA,1,1,NA,Lance-leaved Violet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Viola,macloskeyi,Dilleniidae,Violaceae,0,W,WF WO,H,HS,2,U,1,1,NA,1,1,NA,Macloskey's Marsh Violet,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Viola,palmata,Dilleniidae,Violaceae,0,F,FR,H,HS,1,U,1,1,NA,1,0,V. triloba,Palmate Violet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Viola,pubescens,Dilleniidae,Violaceae,0,F,FR,H,HS,2,U,1,1,NA,1,1,V. pensylvanica,Stemmed Yellow Violet,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Viola,rotundifolia,Dilleniidae,Violaceae,0,F,FR,H,HS,2,U,1,1,NA,1,1,NA,Early Yellow Violet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Viola,sagittata,Dilleniidae,Violaceae,0,O,RW,H,HS,12,F,1,1,NA,1,1,V. fimbriatula,Arrow-leaf Violet,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,0,1
+Viola,sororia,Dilleniidae,Violaceae,0,F,F,H,HS,2,U,1,1,NA,1,0,V. papilionacea,Common Blue Violet,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Viola,sp.,Dilleniidae,Violaceae,0,NA,NA,NA,NA,28,C,0,1,GEN,1,1,NA,NA,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1
+Vitis,aestivalis,Rosidae,Vitaceae,0,F,F,V,V,4,U,1,1,NA,1,1,NA,Summer Grape,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+Vitis,labrusca,Rosidae,Vitaceae,0,F,F,V,V,8,O,1,1,NA,1,1,NA,Fox Grape,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+Vitis,riparia,Rosidae,Vitaceae,0,F W,F WS,V,V,1,U,1,1,NA,1,1,NA,River-bank Grape,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Vitis,sp.,Rosidae,Vitaceae,0,NA,NA,NA,NA,8,O,0,1,GEN,1,1,NA,NA,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+Woodwardia,virginica,Pteridophyte,Blechnaceae,0,W,WB,F,F,2,U,1,1,NA,1,1,NA,Virginia Chain Fern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Xyris,difformis,Commelinidae,Xyridaceae,0,w,WP,H,HL,1,U,1,1,NA,1,1,NA,Yellow-eyed Grass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Xyris,montana,Commelinidae,Xyridaceae,0,W,WP,H,HL,1,U,1,1,NA,1,1,NA,Northern Yellow-eyed Grass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Zanthoxylum,americanum,Rosidae,Rutaceae,0,O,OE,S,S,0,M,1,1,NA,0,1,NA,Prickly Ash,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zizia,aurea,Rosidae,Apiaceae,0,W,WS WO,H,HS,4,U,1,1,NA,1,1,NA,Golden Alexanders,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0

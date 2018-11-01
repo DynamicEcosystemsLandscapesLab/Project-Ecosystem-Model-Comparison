@@ -1,0 +1,16 @@
+day or night model,Period of model - application,Period of model - derivation,Physical variables,Interactions,n,r2,P
+day,Nov 1-Dec 15,October-December,PAR;Ta;Tm;Ts;FROST,PAR*Ta;PAR*Ts;Ta*Ts;Tm*Ts;Ts*FROST,260,0.54,<0.001
+day,Dec 16 - Jan 11,November-January,PAR;Ta;Ts,PAR*Ts,160,0.56,<0.001
+day,Jan 12 - March 31,NA,Tm;Ts,Tm*Ts,284,0.07,<0.001
+day,April,April,HR;PAR;FROST;VPD,HR*PAR;HR*VPD;PAR*FROST;PAR*VPD,110,0.83,<0.001
+day,May,May,HR;PAR;Ta;VPD,HR*VPD;PAR*VPD,139,0.65,<0.001
+day,June,June,HR;PAR;Ta,HR*PAR;Ta*PAR,223,0.58,<0.001
+day,July 1 - Aug 3,July 1 - Aug 3,HR;PAR;VPD,HR*VPD;PAR*VPD,281,0.58,<0.001
+day,Aug 4 - Aug 21,July 1 - Aug 21,HR;PAR;Ta,HR*PAR;HR*Ta,360,0.45,<0.001
+day,Aug 21- Sept 10,July 1 - Sept 30,HR;PAR;Ta;Ts,HR* Ta;HR*PAR,440,0.43,<0.001
+day,Sept 10 - Oct 31,Sept 10 - Oct 31,HR;PAR;Tm;Ts;VPD,HR*PAR,373,0.6,<0.001
+night,Nov 1-Dec 15,October-December,Ta (lin),NA,192,0.23,<0.001
+night,Dec 16 - Jan 11,November-January,Ta (lin); Ts (exp),none,111,0.26,<0.001
+night,Jan 12 - March 31,January-March,Ta (lin),NA,162,0.07,<0.001
+night,April-June,April-June,Ts (exp),NA,194,0.5,<0.001
+night,July-October,July-October,Ta (exp); Ts (exp),Ta*Ts,377,0.32,<0.001

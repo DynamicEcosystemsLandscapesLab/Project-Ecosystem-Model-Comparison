@@ -1,0 +1,130 @@
+updated 5/07, Kathryn McKain
+
+We use the following allometric equations to calculate aboveground woody biomass (BM) from tree DBH measurements 
+at HFEMS biometric plots.
+
+
+Acer rubrum (Red maple) 
+	Hocker & Early 1983, NH, range: 0.4-27.2, N = 33
+	ln(BM) = 5.02 + 2.33 * ln(DBH) [cm, g]	
+		
+
+Acer pennsylvanicum (Striped maple) 
+	Hocker & Early 1983, NH, range: 0.6-7.5 cm, N = 8
+	ln(BM) = 4.68 + 2.38 * ln(DBH) [cm, g]
+
+
+Betula alleghaniensis (Yellow birch) 
+	Whittaker et al. 1974, NH, range: 1-63 cm, N=14
+	Stem: log10(BM) = 2.1413 + 2.2683 * log10(DBH) [cm, g]
+	Branches:  log10(BM) = 1.0535 + 2.7995 * log10(DBH) [cm, g]
+			
+
+Betula lenta (Black birch) 
+	Brenneman et al. 1978, WV, range: 5.08-50.8, N=8
+	BM = 1.6542 * DBH ^ 2.6606 [in, lb]						
+
+
+Betula papyrifera (Paper birch) 
+	Young et al. 1980, ME, range: 2.54-50.8 cm, N = 51
+	Stem:  ln(BM) = -0.1463825 + 2.896804 * ln(DBH) [in, lb]
+	Branches:  ln(BM) = -1.053626 + 2.249402 * ln(DBH) [in, lb]
+				
+
+Betula populifolia (Gray birch) 
+	Young et al. 1980, ME, range: 2.54-22.86 cm, N = 30
+	Stem:  ln(BM) = 0.6541776 + 2.529903 * ln(DBH) [in, lb]
+	Branches:  ln(BM) = -0.3969096 + 1.628732 * ln(DBH) [in, lb]				
+
+
+Fagus grandifolia (American beech) 
+	Whittaker et al. 1974, NH, range: 1-63 cm, N=14
+	Stem: log10(BM) = 2.028 + 2.3981 * log10(DBH) [cm, g]
+	Branches:  log10(BM) = 1.4182 + 2.5509 * log10(DBH) [cm, g]
+					
+
+Fraxinus americana (White ash) 
+	Monteith 1979, NY, range: 2.5-55 cm, N = 32
+	BM = 3.2031 – 0.2337(DBH) + 0.006061(DBH2) [mm, kg]
+
+
+Hamamelis virginiania (witch hazel)
+	Telfer 1969, Canada, range: 0.18-4.31, N=21
+	BM = 38.111(DBH)^2.900 [cm, g]
+
+
+Picea glauca (white spruce) 
+	Young et al., 1980, ME, range: 2.54-66.04, N = 111, spruce spp.
+	Stem: ln(BM) = 0.3960433 +2.374645 * ln(DBH) [in, lb]
+	Branches: ln(BM) = -1.351318+2.338385 * ln(DBH) [in, lb]
+
+
+Pinus resinosa (Red pine) 
+	Young et al. 1980, ME, range: 2.54-50.8, N = 14
+	Stem:  ln(BM) = 0.3078881 + 2.448125 * ln(DBH) [in, lb]
+	Branches:  ln(BM) = -1.508616 + 2.501085 * ln(DBH) [in, lb]
+ 				
+
+Pinus strobus (white pine) 
+	Young et al. 1980, ME, range: 2.54-66.04 cm, N = 35
+	Stem:  ln(BM) = -0.04659059 + 2.545864 * ln(DBH) [in, lb]
+	Branches:  ln(BM) = -1.701115 + 2.485762 * ln(DBH) [in, lb]
+  			
+
+Prunus serotina  (Black cherry) 
+	Brenneman et al. 1978, WV, range: 5.08-50.80, N=26
+	BM = 1.8082 * DBH ^ 2.6174 [in, lb]				
+
+
+Quercus alba (White oak) 
+	Bridge 1979, RI, range: 7.62 – 30.48
+	ln(BM) = -0.82061 + 2.84694 * ln(DBH) [in, kg]
+
+
+Quercus rubra (Northern red oak) 
+	Hocker & Early 1983, NH, range: 1-44.3 cm, N = 39
+	ln(BM) = 5.03 + 2.39 * ln(DBH) [cm, g]
+	• also used for Castenea dentate (American chestnut)
+
+
+Quercus velutina (Black oak) 
+	Wiant et al. 1977, WV, range: 5.08-40.64, N = 19
+	BM = 2.14567 * DBH^2.50304 [in, lb]			
+
+
+Tsuga canadensis (Eastern hemlock) 
+	Young et al. 1980, ME, range: 2.54-50.8 cm, N = 36
+	Stem:  ln(BM) = 0.2607714 + 2.366161 * ln(DBH) [in, lb]
+	Branches:  ln(BM) = -1.775095 + 2.703338 * ln(DBH) [in, lb]
+	
+
+
+
+for shrub spp in understory data:
+
+ 	
+Prunus pennsylvanica (pin cherry) (Grigal and Ohmann 1977)
+	BM = 49.916 * diam. ^ 2.547 [cm, g]
+
+
+Spiraea spp. (Telfer 1969)
+	BM = 36.648 * diam. ^ 2.579 [cm, g]
+
+
+Vaccinium spp. (high bush blueberry) (Telfer 1969)
+	BM = 95.143 * diam. ^ 3.706 [cm, g]
+
+
+Viburnum spp. (Northern wild raisin) (Telfer 1969)
+	BM = 29.615 * diam. ^ 3.243 [cm, g]
+
+
+References: 
+
+Jenkins JC, Chojnacky DC, Heath LS, Birdsey RA. 2004. Comprehensive database of diameter-based biomass regressions for
+North American tree species. Gen. Tech. Rep. NE-319. Newtown Square, PA: US Department of Agriculture, Forest Service,
+Northest Research Station. 45 p. [1 CD-ROM]
+
+Smith WB and Brand GJ. 1983. Allomteric biomass equations for 98 species of herbs, shrubs, and small trees. Research Note 
+NC-299. North Central Forest Experiment Station, Forest Service, USDA.
+
