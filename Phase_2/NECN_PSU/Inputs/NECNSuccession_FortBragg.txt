@@ -4,29 +4,29 @@ Timestep  1
 
 SeedingAlgorithm  WardSeedDispersal
 
-InitialCommunities      	./InitialCommList_DoD.txt
-InitialCommunitiesMap   	./InitalCommMap_DoD.img
+InitialCommunities      	./FortBragg_TreeCommunityList.txt
+InitialCommunitiesMap   	./ICMap_FortBragg.tif
 ClimateConfigFile		./climate-generator-baseline.txt
 
 
-SoilDepthMapName				./Depth_DoD.img
-SoilDrainMapName				./Drain_DoD.img
-SoilBaseFlowMapName				./Base_DoD.img
-SoilStormFlowMapName			./Base_DoD.img
-SoilFieldCapacityMapName		./FC_DoD.img  << starting here I had to set minimum to 0.01  PAIN in the ass.
-SoilWiltingPointMapName			./WP_DoD.img   
-SoilPercentSandMapName			./Sand_DoD.img    
-SoilPercentClayMapName			./Clay_DoD.img    
-InitialSOM1CsurfMapName			./SOM1surfC_DoD_nz2.img   
-InitialSOM1NsurfMapName			./SOM1surfN_DoD_nz2.img
-InitialSOM1CsoilMapName			./SOM1surfC_DoD_nz2.img
-InitialSOM1NsoilMapName			./SOM1surfN_DoD_nz2.img
-InitialSOM2CMapName				./SOM1surfC_DoD_nz2.img
-InitialSOM2NMapName				./SOM1surfN_DoD_nz2.img
-InitialSOM3CMapName				./SOM1surfC_DoD_nz2.img
-InitialSOM3NMapName				./SOM1surfN_DoD_nz2.img
-InitialDeadWoodSurfaceMapName	./CWD_DoD.img
-InitialDeadCoarseRootsMapName	./CWD_DoD.img  <<placeholder
+SoilDepthMapName				./Depth_FortBragg.tif
+SoilDrainMapName				./Drainage_FortBragg.tif
+SoilBaseFlowMapName				./StormFlow_FortBragg.tif
+SoilStormFlowMapName				./StormFlow_FortBragg.tif
+SoilFieldCapacityMapName		./FieldCapacity_FortBragg.tif   << starting here I had to set minimum to 0.01  PAIN in the ass.
+SoilWiltingPointMapName			./WiltPoint_FortBragg.tif  
+SoilPercentSandMapName			./Sand_FortBragg.tif     
+SoilPercentClayMapName			./Clay_FortBragg.tif    
+InitialSOM1CsurfMapName			./SOM1surfC_FortBragg.tif   
+InitialSOM1NsurfMapName			./SOM1surfN_FortBragg.tif 
+InitialSOM1CsoilMapName			./SOM1soilC_FortBragg.tif 
+InitialSOM1NsoilMapName			./SOM1soilN_FortBragg.tif 
+InitialSOM2CMapName				./SOM2C_FortBragg.tif 
+InitialSOM2NMapName				./SOM2N_FortBragg.tif 
+InitialSOM3CMapName				./SOM3C_FortBragg.tif 
+InitialSOM3NMapName				./SOM3N_FortBragg.tif 
+InitialDeadWoodSurfaceMapName	./CWD_FortBragg.tif 
+InitialDeadCoarseRootsMapName	./CWD_FortBragg.tif   <<placeholder
 
 CalibrateMode 	yes
 SmokeModelOutputs yes
